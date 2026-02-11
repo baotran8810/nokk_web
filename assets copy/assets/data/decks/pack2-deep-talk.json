@@ -1,0 +1,818 @@
+{
+  "deck_info": {
+    "id": "pack2-deep-talk",
+    "nameVi": "Tâm sự sâu",
+    "nameEn": "Deep Talk",
+    "descriptionVi": "Chill, chậm rãi, thường dùng vào giai đoạn cuối buổi nhậu",
+    "descriptionEn": "Chill and slow, deep emotional conversations",
+    "category": "deepTalk",
+    "theme": "fantasy",
+    "isFree": true,
+    "iconEmoji": "💭",
+    "isAdult": false,
+    "cardCount": 100
+  },
+  "cards": [
+    {
+      "id": "pack2-1",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu có thể đưa mình trở lại tuổi thơ của bản thân tại một thời điểm và nơi chốn nào, bạn sẽ xuất hiện ở đâu?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-2",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu đây là lần trò chuyện cuối cùng của chúng ta, bạn muốn mình sẽ không bao giờ quên điều gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-3",
+      "category": "truth",
+      "text": {
+        "vi": "Mình có ý nghĩa như thế nào với bạn?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-4",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu một ngày chúng ta chọn đi con đường riêng, bạn muốn mình sẽ luôn mang theo ký ức nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-5",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu đây là lần trò chuyện cuối cùng của chúng ta, bạn muốn mình sẽ nhớ về mối quan hệ này như thế nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-6",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu mọi thứ trên đời xảy ra đều bởi vì một lý do gì đó, bạn nghĩ vì sao chúng ta lại gặp nhau?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-7",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu hiện tại có một thứ làm mình hạnh phúc nhất trên đời, đó sẽ là gì và tại sao?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-8",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu một ngày chúng ta chọn đi con đường riêng, bạn sẽ nhớ nhất điều gì về chúng ta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-9",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy miêu tả một lần mà mình khiến bạn cảm thấy tự hào.",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-10",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy miêu tả một kỷ niệm chung của chúng ta mà bạn thích.",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-11",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thấy mình đã thay đổi thế nào trong mối quan hệ của chúng ta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-12",
+      "category": "truth",
+      "text": {
+        "vi": "Có điều gì đó về mình mà bạn vẫn chưa thể thấu hiểu không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-13",
+      "category": "truth",
+      "text": {
+        "vi": "Một vết thương lòng mà bạn muốn mình giúp mình vượt qua là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-14",
+      "category": "truth",
+      "text": {
+        "vi": "Khía cạnh nào ở mình khiến bạn cảm thấy khó khăn mỗi khi đối diện?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-15",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ điều gì thu hút ở mình mà mình không nhận thấy?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-16",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy miêu tả một lần mà mình khiến bạn cảm thấy không được yêu thương.",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-17",
+      "category": "truth",
+      "text": {
+        "vi": "Một thời điểm mà bạn cảm thấy rất tự hào cho mình là khi nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-18",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có nhận được đủ những lời khen từ mình?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-19",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì về mối quan hệ của chúng ta khiến bạn cảm thấy hạnh phúc?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-20",
+      "category": "truth",
+      "text": {
+        "vi": "Ý nghĩ rằng một ngày nào đó mình sẽ không còn trong cuộc sống của bạn khiến bạn cảm thấy thế nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-21",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì mình có thể làm nhiều hơn để giúp bạn phát triển bản thân?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-22",
+      "category": "truth",
+      "text": {
+        "vi": "Điều khó khăn nhất với chúng ta hiện tại là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-23",
+      "category": "truth",
+      "text": {
+        "vi": "Có bao giờ bạn cảm thấy ghen tị với mình không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-24",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì bạn muốn nghe mình nói nhưng mình chưa bao giờ nói?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-25",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có từng cảm thấy cô đơn lúc ở ngay cạnh mình không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-26",
+      "category": "truth",
+      "text": {
+        "vi": "Có bao giờ mình khiến bạn cảm thấy là bạn không quan trọng với mình không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-27",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều mà bạn muốn mình thay đổi là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-28",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ nỗi sợ lớn nhất của mình là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-29",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn muốn mình mang đến cho bạn điều gì, và nói với bạn điều gì thường xuyên hơn?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-30",
+      "category": "truth",
+      "text": {
+        "vi": "Đã bao giờ bạn cảm thấy bạn đang đánh mất chính mình trong mối quan hệ của chúng ta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-31",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thích cùng mình làm điều gì nhất?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-32",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy kể lại một lần bạn rất cần mình nhưng mình đã không ở đó.",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-33",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều mà bạn sợ phải hỏi mình là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-34",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều mà bạn mong muốn mình làm tốt hơn là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-35",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều mà bạn muốn mình làm nhiều hơn cho mối quan hệ của chúng ta là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-36",
+      "category": "truth",
+      "text": {
+        "vi": "Cuộc sống của bạn sẽ khác như thế nào nếu chúng ta chưa từng gặp nhau?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-37",
+      "category": "truth",
+      "text": {
+        "vi": "Một mong ước mà bạn dành cho mình là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-38",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn muốn mình sẵn lòng đón nhận điều gì nhiều hơn từ bạn?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-39",
+      "category": "truth",
+      "text": {
+        "vi": "Đã bao giờ bạn có ý nghĩ rằng bạn không muốn mình có mặt trong cuộc sống của bạn?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-40",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn muốn mình mở lòng chia sẻ nhiều hơn với bạn về điều gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-41",
+      "category": "truth",
+      "text": {
+        "vi": "Một khoảnh khắc nào mà bạn cảm thấy gần gũi nhất với mình là khi nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-42",
+      "category": "truth",
+      "text": {
+        "vi": "Có bao giờ mình khiến bạn cảm thấy bị bề mạt hoặc bị sỉ nhục không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-43",
+      "category": "truth",
+      "text": {
+        "vi": "Việc gặp gỡ và quen biết mình đã thay đổi bạn như thế nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-44",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì gần đây mình làm khiến bạn ngạc nhiên?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-45",
+      "category": "truth",
+      "text": {
+        "vi": "Một trải nghiệm nào của chúng ta mà bạn ước là chưa bao giờ có?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-46",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì mình từng nói khiến bạn tổn thương (mà thỉnh thoảng bạn vẫn hay nghĩ đến)?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-47",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu có thể quay ngược thời gian, điều gì về chúng ta mà bạn sẽ làm hoặc nói theo một cách khác?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-48",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã hy sinh những gì để giữ gìn mối quan hệ này?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-49",
+      "category": "truth",
+      "text": {
+        "vi": "Nỗi sợ lớn nhất của bạn về mối quan hệ của chúng ta là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-50",
+      "category": "truth",
+      "text": {
+        "vi": "Một lời xin lỗi mà mình vẫn còn nợ bạn là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-51",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều ở mình khiến bạn ngưỡng mộ là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-52",
+      "category": "truth",
+      "text": {
+        "vi": "Một hành động hoặc lời nói của mình khiến bạn cảm thấy không được lắng nghe là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-53",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn học được điều gì từ mình?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-54",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì mà bạn ước là bạn chưa từng nói với mình?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-55",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ khó khăn lớn nhất mà mình đang phải đối mặt là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-56",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có đang sống cuộc đời mà bạn từng mơ ước khi còn nhỏ không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-57",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì ở bản thân mà bạn phải mất rất nhiều thời gian mới có thể học cách chấp nhận?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-58",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu có thể xóa bỏ một ký ức trong quá khứ, bạn sẽ chọn xóa bỏ điều gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-59",
+      "category": "truth",
+      "text": {
+        "vi": "Lần cuối cùng bạn khóc một mình là vì chuyện gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-60",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được chọn một người (còn sống hoặc đã mất) để trò chuyện trong một giờ, đó sẽ là ai?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-61",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì từng khiến bạn rất tin tưởng nhưng giờ đây niềm tin đó đã đổ vỡ?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-62",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có đang trốn tránh điều gì ngay tại thời điểm này không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-63",
+      "category": "truth",
+      "text": {
+        "vi": "Một lời nói dối nào mà bạn vẫn đang duy trì để bảo vệ bản thân hoặc người khác?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-64",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn sợ sự cô đơn hay sợ sự gắn bó hơn?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-65",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì ở xã hội hiện đại khiến bạn cảm thấy lạc lõng nhất?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-66",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn muốn được hiểu hay muốn được yêu thương nhiều hơn?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-67",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu tiền bạc không còn là mục tiêu, bạn sẽ dùng cả ngày của mình để làm gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-68",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thường làm gì khi cảm thấy thế giới xung quanh quá áp lực?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-69",
+      "category": "truth",
+      "text": {
+        "vi": "Một thành công của bạn mà không ai biết tới là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-70",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có đang giữ mối hận thù nào khiến bản thân nặng lòng không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-71",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì khiến bạn cảm thấy mình thực sự được là chính mình nhất?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-72",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thường tử tế với người khác nhưng lại khắt khe với bản thân ở điểm nào?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-73",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu có thể biết trước một điều về tương lai của mình, bạn có muốn biết không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-74",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ mình đã từng vô tình làm tổn thương ai đó mà chưa có cơ hội xin lỗi chưa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-75",
+      "category": "truth",
+      "text": {
+        "vi": "Một giấc mơ kỳ lạ nào mà bạn vẫn thường hay nhớ lại?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-76",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đánh giá một người dựa trên yếu tố nào đầu tiên?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-77",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu cuộc đời bạn là một cuốn sách, tiêu đề của chương hiện tại sẽ là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-78",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì khiến bạn cảm thấy mình vẫn còn rất trẻ con?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-79",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có tin vào định mệnh hay tin rằng mọi thứ đều là sự tình cờ?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-80",
+      "category": "truth",
+      "text": {
+        "vi": "Một thói quen xấu nào mà bạn biết nó độc hại nhưng vẫn chưa thể từ bỏ?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-81",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn cảm thấy biết ơn điều gì nhất trong 24 giờ vừa qua?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-82",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bạn biến mất vào ngày mai, điều gì ở bạn sẽ khiến người khác nhớ tới nhiều nhất?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-83",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có đang hy sinh hạnh phúc của mình vì kỳ vọng của người khác không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-84",
+      "category": "truth",
+      "text": {
+        "vi": "Một nơi nào đó trên thế giới này khiến bạn cảm thấy thuộc về nhất dù chưa từng đến?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-85",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thường dùng mặt nạ nào để đối diện với đồng nghiệp hoặc người lạ?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-86",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì mà bạn nghĩ là không bao giờ có thể tha thứ được?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-87",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có đang yêu bản thân mình đúng cách không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-88",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được bắt đầu lại từ đầu với một danh tính khác, bạn có chọn làm như vậy không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-89",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được gặp lại phiên bản của chính mình 5 năm trước, điều duy nhất bạn muốn cảnh báo hoặc an ủi bản thân là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-90",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ mọi người thường hiểu lầm điều gì nhất ở bạn, và tại sao bạn lại chọn để họ tiếp tục hiểu lầm như vậy?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-91",
+      "category": "truth",
+      "text": {
+        "vi": "Một bài học đau đớn nhất mà cuộc đời đã dạy bạn, nhưng chính nó lại nhào nặn nên con người của bạn ngày hôm nay là gì?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-92",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn cảm thấy mình cô đơn nhất là khi nào, ngay cả khi đang ở giữa một đám đông?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-93",
+      "category": "truth",
+      "text": {
+        "vi": "Có đặc điểm tính cách nào của bản thân mà bạn luôn cố gắng che giấu vì sợ rằng nếu người khác biết, họ sẽ không còn yêu quý bạn nữa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-94",
+      "category": "truth",
+      "text": {
+        "vi": "Có lời xin lỗi nào bạn muốn gửi đến chính mình trong quá khứ vì đã để bản thân phải chịu đựng những điều không xứng đáng không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-95",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì ở hiện tại khiến bạn cảm thấy bất an nhất nhưng lại chưa bao giờ dám nói ra vì sợ bị đánh giá?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-96",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu hôm nay là ngày cuối cùng, có việc gì bạn hối tiếc vì đã chưa làm hoặc có lời nào bạn hối tiếc vì đã chưa nói không?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-97",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn muốn được người khác nhớ đến vì điều gì nhất sau khi bạn không còn ở thế gian này nữa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-98",
+      "category": "truth",
+      "text": {
+        "vi": "Định nghĩa về một \"cuộc đời đáng sống\" của bạn đã thay đổi như thế nào so với 3 năm trước?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-99",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn cảm thấy mình \"giàu có\" nhất ở khía cạnh nào ngoài tiền bạc?",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack2-100",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ mình là \"nạn nhân\" hay là \"người làm chủ\" trong những biến cố đã qua?",
+        "en": ""
+      }
+    }
+  ],
+  "special_cards": []
+}
