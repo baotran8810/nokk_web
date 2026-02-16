@@ -1,0 +1,330 @@
+{
+  "deck_info": {
+    "id": "pack7-nong-bong-18plus",
+    "nameVi": "Nóng Bỏng 18+",
+    "nameEn": "Hot & Spicy 18+",
+    "descriptionVi": "Dành cho người lớn, nội dung 18+",
+    "descriptionEn": "Adults only, 18+ content",
+    "category": "hotSpicy",
+    "theme": "cyberpunk",
+    "isFree": false,
+    "iconEmoji": "🔥",
+    "isAdult": true,
+    "cardCount": 39
+  },
+  "cards": [
+    {
+      "id": "pack7-nong-bong-18plus-1",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy kể ra 3 tư thế sex bạn yêu thích và lý do vì sao bạn thích nó. Hoặc uống 2.5 ly",
+        "en": "Name your 3 favorite sex positions and why you like them. Or drink 2.5 glasses"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-2",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu đây là lần trò chuyện cuối cùng của chúng ta, bạn muốn mình sẽ nhớ về mối quan hệ này như thế nào?",
+        "en": "If this were our last conversation, how would you like to remember this relationship?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-3",
+      "category": "game",
+      "text": {
+        "vi": "Bạn thấy mình đã thay đổi thế nào trong mối quan hệ của chúng ta?",
+        "en": "How do you feel you have changed in our relationship?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-4",
+      "category": "game",
+      "text": {
+        "vi": "Điều gì về mối quan hệ của chúng ta khiến bạn cảm thấy hạnh phúc?",
+        "en": "What about our relationship makes you happy?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-5",
+      "category": "game",
+      "text": {
+        "vi": "Đã bao giờ bạn cảm thấy bạn đang đánh mất chính mình trong mối quan hệ của chúng ta?",
+        "en": "Have you ever felt like you were losing yourself in our relationship?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-6",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều mà bạn muốn mình làm nhiều hơn cho mối quan hệ của chúng ta là gì?",
+        "en": "What is one thing you wish you did more for our relationship?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-7",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã hy sinh những gì để giữ gìn mối quan hệ này?",
+        "en": "What have you sacrificed to preserve this relationship?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-8",
+      "category": "truth",
+      "text": {
+        "vi": "Nỗi sợ lớn nhất của bạn về mối quan hệ của chúng ta là gì?",
+        "en": "What is your biggest fear about our relationship?"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-9",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện cho bố mẹ và báo là bạn vừa have s3x 3P rồi cúp máy ngay HOẶC Uống 1.5 ly.",
+        "en": "Call your parents and tell them you just had sex, then hang up immediately OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-10",
+      "category": "punishment",
+      "text": {
+        "vi": "Trườn 1 cách thật sexy đến chỗ 1 người khác giới được chỉ định HOẶC Uống 1 ly.",
+        "en": "Sexily crawl over to a designated person of the opposite sex OR Have a drink."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-11",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhảy sexy trước mặt mọi người trong 2 phút HOẶC Uống nửa ly.",
+        "en": "Dance sexy in front of everyone for 2 minutes OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-12",
+      "category": "truth",
+      "text": {
+        "vi": "Kể ra 3 tư thế s3x bạn yêu thích và lý do HOẶC Uống 2.5 ly.",
+        "en": "List your 3 favorite sex positions and why OR Drink 2.5 glasses."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-13",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu buộc phải chọn, bạn sẽ hôn - cưới - s3x những ai trong nhóm này? / Dare: Đập trứng gà lên trán.",
+        "en": "Truth: If forced to choose, who in this group would you kiss - marry - have sex with? / Dare: Crack an egg on your forehead."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-14",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Khai thật đi, bạn đã từng thủ dâm chưa? / Dare: Gọi điện cho bố mẹ và báo với họ là bạn sẽ qua đêm tại nhà của 1 người khác giới.",
+        "en": "Truth: Tell the truth, have you ever masturbated? / Dare: Call your parents and tell them that you will spend the night at the house of a person of the opposite sex."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-15",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu được ngủ với 1 người trong bàn này, bạn sẽ chọn ai? / Dare: Gọi điện cho 1 người khác giới bất kì và thả thính họ.",
+        "en": "Truth: If you could sleep with one person at this table, who would you choose? / Dare: Call any person of the opposite sex and flirt with them."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-16",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu có thể have s3x ở bất kì nơi nào, bạn muốn được làm ở đâu? Vì sao? / Dare: Để 1 người khác giới cù lét bạn và cố nhịn cười trong 30 giây.",
+        "en": "Truth: If you could have s3x anywhere, where would you like to have it? Why? / Dare: Let someone of the opposite sex tickle you and try not to laugh for 30 seconds."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-17",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Lần đầu bạn have s3x là năm bao nhiêu tuổi? / Dare: Lập tức nhắn tin tỏ tình với crush!",
+        "en": "Truth: How old were you the first time you had sex? / Dare: Immediately text your crush to confess your love!"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-18",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bạn nghĩ gì về Chat s3x? Bạn thích nó không? / Dare: Dirty Talk với người ngồi đối diện bạn trong 5 phút.",
+        "en": "Truth: What do you think about Chat s3x? Do you like it? / Dare: Dirty Talk with the person sitting across from you for 5 minutes."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-19",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bạn nghĩ gì về s3x toy? Bạn thích nó chứ? Vì sao? / Dare: Nhắn tin nhờ 1 người bạn khác giới mua bao cao su/băng vệ sinh cho bạn.",
+        "en": "Truth: What do you think about s3x toy? Do you like it? Why? / Dare: Text a friend of the opposite sex to buy condoms/sanitary pads for you."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-20",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu được ngủ với 1 người trong bàn, bạn sẽ chọn ai? / Dare: Cho mọi người xem 1 đoạn tin nhắn với người yêu cũ.",
+        "en": "Truth: If you could sleep with one person at the table, who would you choose? / Dare: Show everyone a text message with your ex."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-21",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bộ phận mà bạn cảm thấy sexy nhất trên người? Vì sao? / Dare: Xoay tròn 12 vòng rồi đi bộ trong 2 phút.",
+        "en": "Truth: What part of your body do you find sexiest? Why? / Dare: Spin 12 times and then walk for 2 minutes."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-22",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu có thể thay đổi 1 bộ phận trên cơ thể bạn, vậy thì đó là gì? / Dare: Lắc mông trước mặt mọi người trong 1 phút.",
+        "en": "Truth: If you could change one part of your body, what would it be? / Dare: Shake your butt in front of everyone for 1 minute."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-23",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bạn có thích chơi SM khi have s3x không? Vì sao? / Dare: Nhắn tin nhờ 1 người bạn khác giới mua băng vệ sinh/bao cao su cho bạn.",
+        "en": "Truth: Do you like playing SM when you have s3x? Why? / Dare: Text a friend of the opposite sex to buy you sanitary napkins/condoms."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-24",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu được ngủ với một người trong bàn, bạn sẽ chọn ai? / Dare: Cho mọi người xem một đoạn tin nhắn với người yêu cũ.",
+        "en": "Truth: If you could sleep with anyone at the table, who would you choose? / Dare: Show everyone a text message with your ex."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-25",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Lần đầu bạn have s3x là năm bao nhiêu tuổi? / Dare: Cho phép ai đó trong nhóm đọc tin nhắn của bạn.",
+        "en": "Truth: How old were you the first time you had sex? / Dare: Allow someone in the group to read your messages."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-26",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bạn muốn nhìn thấy ai khỏa thân nhất trong này? / Dare: Up 1 ảnh sexy nhất của bạn lên mạng xã hội bất kỳ.",
+        "en": "Truth: Who would you most like to see naked in this? / Dare: Upload 1 of your sexiest photos to any social network."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-27",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bạn nghĩ gì về Chat S3x? Bạn thích nó không? / Dare: Hãy Dirty Talk với người ngồi đối diện với bạn.",
+        "en": "Truth: What do you think about Chat S3x? Do you like it? / Dare: Make Dirty Talk with the person sitting across from you."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-28",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Bạn có thích trải nghiệm 3P khi have s3x? / Dare: Thổi vào tai 1 người khác giới được chỉ định.",
+        "en": "Truth: Do you like the 3P experience when having s3x? / Dare: Blow into the ear of a designated person of the opposite sex."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-29",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Khai thật đi, bạn đã từng thủ dâm chưa? / Dare: Gọi điện cho bố mẹ và bảo với họ là bạn sẽ qua đêm tại nhà của 1 người khác giới.",
+        "en": "Truth: Tell the truth, have you ever masturbated? / Dare: Call your parents and tell them you will spend the night at the house of a person of the opposite sex."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-30",
+      "category": "truth",
+      "text": {
+        "vi": "Truth: Nếu có thể thay đổi 1 bộ phận trên cơ thể bạn, vậy thì đó là gì? / Dare: Cho mọi người xem 1 bức ảnh xấu hổ nhất của bạn.",
+        "en": "Truth: If you could change one part of your body, what would it be? / Dare: Show everyone your most embarrassing photo."
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-31",
+      "category": "punishment",
+      "text": {
+        "vi": "Từng bơi nude -> Uống 1.5 ly",
+        "en": "Ever swam nude -> Drink 1.5 glasses"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-32",
+      "category": "punishment",
+      "text": {
+        "vi": "Từng gửi hình nude cho người khác -> Uống 2 ly",
+        "en": "Ever sent nude pictures to someone else -> Drink 2 glasses"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-33",
+      "category": "punishment",
+      "text": {
+        "vi": "Từng threesome hoặc anal s3x -> Uống 2 ly",
+        "en": "Every threesome or anal s3x -> Drink 2 drinks"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-34",
+      "category": "game",
+      "text": {
+        "vi": "Từng xem s3x chung với người khác -> Uống tùy theo tửu lượng",
+        "en": "Ever watched s3x with others -> Drink according to alcohol tolerance"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-35",
+      "category": "punishment",
+      "text": {
+        "vi": "Có s3xtoys -> Uống 2 ly",
+        "en": "Have s3xtoys -> Drink 2 glasses"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-36",
+      "category": "punishment",
+      "text": {
+        "vi": "Từng quay clip khi s3x -> Uống 2 ly",
+        "en": "Once recorded a clip during s3x -> Drink 2 glasses"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-37",
+      "category": "punishment",
+      "text": {
+        "vi": "Có dùng Telegram hoặc Twitter xem s3x -> Uống 2 ly",
+        "en": "Use Telegram or Twitter to watch s3x -> Drink 2 glasses"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-38",
+      "category": "dare",
+      "text": {
+        "vi": "Cởi bỏ 1 món đồ trên người",
+        "en": "Take off 1 item of clothing on your body"
+      }
+    },
+    {
+      "id": "pack7-nong-bong-18plus-39",
+      "category": "punishment",
+      "text": {
+        "vi": "Hôn môi 1 người đồng giới được chỉ định HOẶC Uống 2.5 ly HOẶC Dừng cuộc chơi.",
+        "en": "Kiss a designated person on the lips OR Drink 2.5 drinks OR Stop playing."
+      }
+    }
+  ],
+  "special_cards": []
+}

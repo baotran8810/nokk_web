@@ -18,7 +18,7 @@
       "category": "game",
       "text": {
         "vi": "Đặt một chiếc nắp chai giữa bàn. Ai cầm được nắp chai cuối cùng sau khi bạn hô \"Chụp\" thì phải uống 2 ly",
-        "en": ""
+        "en": "Place a bottle cap in the middle of the table. Whoever holds the last bottle cap after you shout \"Snap\" must drink 2 glasses"
       }
     },
     {
@@ -26,7 +26,7 @@
       "category": "game",
       "text": {
         "vi": "Cả bàn cùng đứng dậy xoay 5 vòng tại chỗ rồi ngồi xuống. Ai ngã hoặc ngồi xuống cuối cùng uống 2 ly",
-        "en": ""
+        "en": "The whole table stood up, rotated 5 times in place and then sat down. Whoever falls or sits down last drinks 2 glasses"
       }
     },
     {
@@ -34,7 +34,7 @@
       "category": "game",
       "text": {
         "vi": "Nói thật nhanh câu: \"Lúa nếp là lúa nếp làng, lúa lên lớp lớp lòng nàng lâng lâng\" 3 lần. Sai uống 2 ly",
-        "en": ""
+        "en": "Say quickly the sentence: \"Sticky rice is sticky rice in the village, rice layer after layer makes my heart light\" 3 times. Sai drank 2 glasses"
       }
     },
     {
@@ -42,7 +42,7 @@
       "category": "game",
       "text": {
         "vi": "Bạn chỉ tay vào ai người đó phải giơ tay đầu hàng. Người bên trái và phải người đó phải hét \"Bùm\". Ai làm sai uống",
-        "en": ""
+        "en": "You point your finger at someone and that person must raise their hands in surrender. The person to his left and right must shout \"Boom\". Whoever did wrong drinks"
       }
     },
     {
@@ -50,7 +50,7 @@
       "category": "game",
       "text": {
         "vi": "Cả nhóm cùng nhìn vào mắt người đối diện. Ai chớp mắt trước uống. Ai cười trước uống gấp đôi",
-        "en": ""
+        "en": "The whole group looked into each other's eyes. Who blinks first drinks. Whoever laughs first drinks twice as much"
       }
     },
     {
@@ -58,7 +58,7 @@
       "category": "game",
       "text": {
         "vi": "Ngậm một tấm thẻ/tờ giấy bằng môi và chuyền cho người bên cạnh. Ai làm rơi cả hai cùng uống",
-        "en": ""
+        "en": "Hold a card/paper between your lips and pass it to the person next to you. Whoever dropped it, both of them drank it"
       }
     },
     {
@@ -66,7 +66,7 @@
       "category": "game",
       "text": {
         "vi": "Tất cả những ai đang độc thân cùng uống 2 ly",
-        "en": ""
+        "en": "Everyone who is single drinks 2 glasses"
       }
     },
     {
@@ -74,7 +74,7 @@
       "category": "game",
       "text": {
         "vi": "Tung xúc xắc trên app, số điểm của bạn là số ly người bên phải phải uống",
-        "en": ""
+        "en": "Roll the dice on the app, your score is the number of glasses the person on the right must drink"
       }
     },
     {
@@ -82,7 +82,7 @@
       "category": "game",
       "text": {
         "vi": "Quay điện thoại trên bàn, đầu điện thoại chỉ về phía ai người đó uống 100%",
-        "en": ""
+        "en": "Turn the phone on the table, point the phone towards someone, that person drinks 100%"
       }
     },
     {
@@ -90,7 +90,7 @@
       "category": "game",
       "text": {
         "vi": "Bạn vỗ tay 1 cái (theo chiều kim đồng hồ), vỗ 2 cái (đổi chiều). Ai nhầm uống",
-        "en": ""
+        "en": "You clap once (clockwise), clap twice (reverse direction). Who drinks it by mistake?"
       }
     },
     {
@@ -98,7 +98,7 @@
       "category": "game",
       "text": {
         "vi": "Trong 3 lượt tới, không ai được nói từ \"Tao\" hoặc \"Mày\". Ai vi phạm uống 1 ly/lần",
-        "en": ""
+        "en": "During the next 3 turns, no one can say the words \"I\" or \"You\". Anyone who violates should drink 1 glass at a time"
       }
     },
     {
@@ -106,7 +106,7 @@
       "category": "game",
       "text": {
         "vi": "Bạn mô tả một tư thế nhạy cảm bằng hành động, ai đoán đúng bạn uống, đoán sai họ uống",
-        "en": ""
+        "en": "You describe a sensitive position with actions, whoever guesses correctly you drink, whoever guesses incorrectly they drink"
       }
     },
     {
@@ -114,7 +114,7 @@
       "category": "game",
       "text": {
         "vi": "Tất cả đứng bằng một chân. Ai ngã là uống",
-        "en": ""
+        "en": "All stand on one leg. Whoever falls drinks"
       }
     },
     {
@@ -122,7 +122,7 @@
       "category": "game",
       "text": {
         "vi": "Kể tên 5 tư thế... ngủ trong 5 giây. Không kịp uống",
-        "en": ""
+        "en": "Name 5 positions... sleeping in 5 seconds. No time to drink"
       }
     },
     {
@@ -130,7 +130,7 @@
       "category": "game",
       "text": {
         "vi": "Ai là người \"dâm ngầm\" nhất bàn? Ai bị chỉ nhiều nhất uống cạn ly",
-        "en": ""
+        "en": "Who is the most \"hidden\" person at the table? Whoever gets criticized the most drinks the entire glass"
       }
     },
     {
@@ -138,7 +138,7 @@
       "category": "game",
       "text": {
         "vi": "Nói tên 5 món nhậu trong 10 giây, không đủ uống",
-        "en": ""
+        "en": "Name 5 drinks in 10 seconds, not enough to drink"
       }
     },
     {
@@ -146,7 +146,7 @@
       "category": "game",
       "text": {
         "vi": "Chỉ tay ngẫu nhiên, người bị chỉ nhiều nhất uống",
-        "en": ""
+        "en": "Pointing at random, the person being pointed at the most drinks"
       }
     },
     {
@@ -154,7 +154,7 @@
       "category": "game",
       "text": {
         "vi": "Kể một câu chuyện ngắn về bản thân. Cả bàn biểu quyết là \"Thật\" hay \"Giả\". Phe thiểu số uống",
-        "en": ""
+        "en": "Tell a short story about yourself. The whole table voted on whether it was \"Real\" or \"Fake\". The minority party drinks"
       }
     },
     {
@@ -162,7 +162,7 @@
       "category": "game",
       "text": {
         "vi": "Đứng dậy, cúi người dùng tay chạm đất và xoay 10 vòng quanh chỗ ngồi, sau đó phải đi thẳng một đường đến cuối bàn. Không đi thẳng được thì uống 2 ly",
-        "en": ""
+        "en": "Stand up, bend down, touch the ground with your hands and rotate 10 times around the seat, then go straight to the end of the table. If you can't walk straight, drink 2 glasses"
       }
     },
     {
@@ -170,7 +170,7 @@
       "category": "game",
       "text": {
         "vi": "Thách đấu vật tay với người do bạn chọn. Nếu bạn thắng, người đó uống. Nếu bạn thua, bạn uống gấp đôi",
-        "en": ""
+        "en": "Challenge someone to an arm wrestling match of your choice. If you win, that person drinks. If you lose, you drink double"
       }
     },
     {
@@ -178,7 +178,7 @@
       "category": "game",
       "text": {
         "vi": "Bạn cầm điện thoại, đặt bộ đếm giờ ngẫu nhiên (5-15 giây). Cả bàn phải chuyền điện thoại cho nhau sau khi trả lời một từ khóa (ví dụ: \"Tên một loại rượu\"). Điện thoại rung trên tay ai, người đó uống 2 ly",
-        "en": ""
+        "en": "You hold your phone, set a random timer (5-15 seconds). The whole table must pass the phone to each other after answering a keyword (e.g. \"Name of a wine\"). The phone vibrates in someone's hand, that person drinks 2 drinks"
       }
     },
     {
@@ -186,7 +186,7 @@
       "category": "game",
       "text": {
         "vi": "Bạn nói 1 từ. Mỗi người lần lượt lặp lại + nói thêm 1 từ mới. Ai sai uống",
-        "en": ""
+        "en": "You say 1 word. Each person takes turns repeating + saying one new word. Who told you to drink?"
       }
     },
     {
@@ -194,7 +194,7 @@
       "category": "game",
       "text": {
         "vi": "Trong 1 vòng, không ai được nói từ “Uống”. Ai nói uống 1 ly",
-        "en": ""
+        "en": "During a round, no one can say the word \"Drink\". Who said drink 1 glass?"
       }
     },
     {
@@ -202,7 +202,7 @@
       "category": "game",
       "text": {
         "vi": "Tất cả cùng uống 1 ly mà không được dùng tay",
-        "en": ""
+        "en": "Everyone drinks the same glass without using their hands"
       }
     },
     {
@@ -210,7 +210,7 @@
       "category": "game",
       "text": {
         "vi": "Tất cả cầm đũa. Ai gắp đồ ăn bỏ vào miệng chậm nhất thì uống",
-        "en": ""
+        "en": "Everyone held chopsticks. Whoever picks up the food and puts it in their mouth the slowest gets to drink"
       }
     },
     {
@@ -218,7 +218,7 @@
       "category": "punishment",
       "text": {
         "vi": "Hôn lên cổ 1 người khác giới được chỉ định và để lại dấu hicky lên đó. Hoặc uống 3 ly",
-        "en": ""
+        "en": "Kiss the neck of a designated person of the opposite sex and leave a hicky mark on it. Or drink 3 glasses"
       }
     },
     {
@@ -226,7 +226,7 @@
       "category": "punishment",
       "text": {
         "vi": "Hãy kể ra 3 tư thế sex bạn yêu thích và lý do vì sao bạn thích nó. Hoặc uống 2.5 ly",
-        "en": ""
+        "en": "Name your 3 favorite sex positions and why you like them. Or drink 2.5 glasses"
       }
     },
     {
@@ -234,7 +234,7 @@
       "category": "punishment",
       "text": {
         "vi": "Vừa soi gương vừa nói to “Gương kia ngự ở trên tường, trần đời này không ai điên bằng ta” 10 lần. Hoặc uống 1.5 ly",
-        "en": ""
+        "en": "While looking in the mirror, say out loud, \"That mirror is on the wall, no one in this world is as crazy as me\" 10 times. Or drink 1.5 glasses"
       }
     },
     {
@@ -242,7 +242,7 @@
       "category": "punishment",
       "text": {
         "vi": "Mặc áo mưa đi ra ngoài nhảy múa tung tăng trong 5 phút. Hoặc uống 1.5 ly",
-        "en": ""
+        "en": "Wear a raincoat and go out dancing for 5 minutes. Or drink 1.5 glasses"
       }
     },
     {
@@ -250,7 +250,7 @@
       "category": "punishment",
       "text": {
         "vi": "Để người ngồi bên trái đổ nước lên đầu bạn và đăng bức ảnh hiện trường đó lên Facebook. Hoặc cả 2 đều uống 1 ly.",
-        "en": ""
+        "en": "Have the person sitting on your left pour water over your head and post a photo of the scene on Facebook. Or both drink 1 glass."
       }
     },
     {
@@ -258,7 +258,7 @@
       "category": "punishment",
       "text": {
         "vi": "Chạy ra ngoài xin selfie với 3 người được chỉ định. Hoặc uống 2 ly.",
-        "en": ""
+        "en": "Run out and ask for a selfie with 3 designated people. Or drink 2 glasses."
       }
     },
     {
@@ -266,7 +266,7 @@
       "category": "game",
       "text": {
         "vi": "Đi ra ngoài gạ 1 người khác giới qua đêm cùng nhau ở khách sạn. Hoặc uống 3 ly.",
-        "en": ""
+        "en": "Go out and invite a person of the opposite sex to spend the night together at a hotel. Or drink 3 glasses."
       }
     },
     {
@@ -274,7 +274,7 @@
       "category": "game",
       "text": {
         "vi": "Đổi toàn bộ trnag phục với 1 người khác giới được chỉ định và giữ nguyên cho đến khi kết thúc. Hoặc uống 2.5 ly.",
-        "en": ""
+        "en": "Exchange all outfits with a designated person of the opposite sex and keep them the same until the end. Or drink 2.5 glasses."
       }
     },
     {
@@ -282,7 +282,7 @@
       "category": "punishment",
       "text": {
         "vi": "Chạy ra ngoài và nói “Tôi yêu bạn” với 5 người khác giới. Hoặc uống 1.5 ly.",
-        "en": ""
+        "en": "Run out and say “I love you” to 5 people of the opposite sex. Or drink 1.5 glasses."
       }
     },
     {
@@ -290,7 +290,7 @@
       "category": "punishment",
       "text": {
         "vi": "Chạy ra ngoài ôm chặt 3 người bất kì. Hoặc uống 1 ly.",
-        "en": ""
+        "en": "Run outside and hug 3 random people. Or drink 1 glass."
       }
     },
     {
@@ -298,7 +298,7 @@
       "category": "punishment",
       "text": {
         "vi": "Đứng trước thùng rác và sủa gâu gâu trong 2 phút. Hoặc uống 1 ly.",
-        "en": ""
+        "en": "Stand in front of the trash can and bark for 2 minutes. Or drink 1 glass."
       }
     },
     {
@@ -306,7 +306,7 @@
       "category": "punishment",
       "text": {
         "vi": "Gõ mạnh vào cửa sổ nhà hàng xóm rồi bỏ chạy. Hoặc uống 1.5 ly.",
-        "en": ""
+        "en": "Knocked hard on the neighbor's window and ran away. Or drink 1.5 glasses."
       }
     },
     {
@@ -314,7 +314,7 @@
       "category": "punishment",
       "text": {
         "vi": "Gọi điện cho bố mẹ và bảo là bạn sẽ bỏ nhà ra đi rồi gác máy, không trả lời khi bị gọi lại. Hoặc uống 2 ly.",
-        "en": ""
+        "en": "Call your parents and tell them you're leaving home, then hang up and don't answer when called back. Or drink 2 glasses."
       }
     },
     {
@@ -322,7 +322,7 @@
       "category": "punishment",
       "text": {
         "vi": "Chơi trò pocky game với 1 bạn khác giới được chỉ định. Hoặc cả 2 đều uống 1 ly.",
-        "en": ""
+        "en": "Play a Pocky game with a designated person of the opposite sex. Or both drink 1 glass."
       }
     },
     {
@@ -330,7 +330,7 @@
       "category": "game",
       "text": {
         "vi": "Áp mặt vào ngực của 1 người khác giới được chỉ định và hít sâu 3 lần. Hoặc uống 3 ly.",
-        "en": ""
+        "en": "Place your face against the chest of a designated person of the opposite sex and take three deep breaths. Or drink 3 glasses."
       }
     }
   ],

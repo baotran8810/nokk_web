@@ -1,0 +1,946 @@
+{
+  "deck_info": {
+    "id": "pack6-lieu-mang",
+    "nameVi": "Liều Mạng",
+    "nameEn": "Dare Devil",
+    "descriptionVi": "Những thử thách liều lĩnh và táo bạo",
+    "descriptionEn": "Wild and daring challenges",
+    "category": "dareDevil",
+    "theme": "cyberpunk",
+    "isFree": true,
+    "iconEmoji": "⚡",
+    "isAdult": true,
+    "cardCount": 116
+  },
+  "cards": [
+    {
+      "id": "pack6-lieu-mang-1",
+      "category": "punishment",
+      "text": {
+        "vi": "Hôn lên cổ 1 người khác giới được chỉ định và để lại dấu hicky lên đó. Hoặc uống 3 ly",
+        "en": "Kiss the neck of a designated person of the opposite sex and leave a hicky mark on it. Or drink 3 glasses"
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-2",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa soi gương vừa nói to “Gương kia ngự ở trên tường, trần đời này không ai điên bằng ta” 10 lần. Hoặc uống 1.5 ly",
+        "en": "While looking in the mirror, say out loud, \"That mirror is on the wall, no one in this world is as crazy as me\" 10 times. Or drink 1.5 glasses"
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-3",
+      "category": "punishment",
+      "text": {
+        "vi": "Mặc áo mưa đi ra ngoài nhảy múa tung tăng trong 5 phút. Hoặc uống 1.5 ly",
+        "en": "Wear a raincoat and go out dancing for 5 minutes. Or drink 1.5 glasses"
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-4",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài xin selfie với 3 người được chỉ định. Hoặc uống 2 ly.",
+        "en": "Run out and ask for a selfie with 3 designated people. Or drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-5",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài gạ 1 người khác giới qua đêm cùng nhau ở khách sạn. Hoặc uống 3 ly.",
+        "en": "Go out and invite a person of the opposite sex to spend the night together at a hotel. Or drink 3 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-6",
+      "category": "punishment",
+      "text": {
+        "vi": "Đổi toàn bộ trnag phục với 1 người khác giới được chỉ định và giữ nguyên cho đến khi kết thúc. Hoặc uống 2.5 ly.",
+        "en": "Exchange all outfits with a designated person of the opposite sex and keep them the same until the end. Or drink 2.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-7",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài và nói “Tôi yêu bạn” với 5 người khác giới. Hoặc uống 1.5 ly.",
+        "en": "Run out and say “I love you” to 5 people of the opposite sex. Or drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-8",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài ôm chặt 3 người bất kì. Hoặc uống 1 ly.",
+        "en": "Run outside and hug 3 random people. Or drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-9",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng trước thùng rác và sủa gâu gâu trong 2 phút. Hoặc uống 1 ly.",
+        "en": "Stand in front of the trash can and bark for 2 minutes. Or drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-10",
+      "category": "punishment",
+      "text": {
+        "vi": "Gõ mạnh vào cửa sổ nhà hàng xóm rồi bỏ chạy. Hoặc uống 1.5 ly.",
+        "en": "Knocked hard on the neighbor's window and ran away. Or drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-11",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện cho bố mẹ và bảo là bạn sẽ bỏ nhà ra đi rồi gác máy, không trả lời khi bị gọi lại. Hoặc uống 2 ly.",
+        "en": "Call your parents and tell them you're leaving home, then hang up and don't answer when called back. Or drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-12",
+      "category": "punishment",
+      "text": {
+        "vi": "Áp mặt vào ngực của 1 người khác giới được chỉ định và hít sâu 3 lần. Hoặc uống 3 ly.",
+        "en": "Place your face against the chest of a designated person of the opposite sex and take three deep breaths. Or drink 3 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-13",
+      "category": "punishment",
+      "text": {
+        "vi": "Để mỗi người chơi viết 1 từ tùy ý lên trán của bạn bằng bút lông HOẶC Uống 1.5 ly.",
+        "en": "Have each player write a random word on your forehead with a marker OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-14",
+      "category": "punishment",
+      "text": {
+        "vi": "Chỉ ra người mà bạn cho là có chiếc vòng 3 hoàn mỹ nhất trong ván (phải nêu lý do) HOẶC Uống 1 ly.",
+        "en": "Indicate who you think has the most perfect butt in the game (must give reason) OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-15",
+      "category": "punishment",
+      "text": {
+        "vi": "Đăng 1 video lắc mông lên story trên Facebook và để đó trong 2 giờ HOẶC Uống nửa ly.",
+        "en": "Post a butt shaking video to your Facebook story and leave it there for 2 hours OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-16",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên trái búng mũi bạn 3 lần HOẶC Uống nửa ly.",
+        "en": "Have the person sitting on your left flick your nose 3 times OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-17",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa đi vòng quanh bàn vừa hét to trong 30 giây HOẶC Uống nửa ly.",
+        "en": "Walk around the table and shout loudly for 30 seconds OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-18",
+      "category": "punishment",
+      "text": {
+        "vi": "Hôn lên trán 1 người khác giới được chỉ định HOẶC Uống 1 ly.",
+        "en": "Kiss the designated person on the forehead OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-19",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy kể cho mọi người nghe 2 bí mật mà bạn hứa phải giữ HOẶC Uống 1 ly.",
+        "en": "Tell everyone 2 secrets you promise to keep OR Have a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-20",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi đối diện cù lét bạn và ráng nhịn cười trong 1 phút HOẶC Uống nửa ly.",
+        "en": "Let the person sitting across from you tickle you and try not to laugh for 1 minute OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-21",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhìn chằm chằm vào mắt của 1 người khác giới tính trong 1 phút HOẶC Uống 1 ly.",
+        "en": "Stare into the eyes of a person of the opposite sex for 1 minute OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-22",
+      "category": "punishment",
+      "text": {
+        "vi": "Ngồi thiền dưới sàn và hát 1 bài tùy ý HOẶC Uống nửa ly.",
+        "en": "Meditate on the floor and sing a song of your choice OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-23",
+      "category": "punishment",
+      "text": {
+        "vi": "Bình luận 1 câu bất kì lên bài viết của người yêu cũ HOẶC Uống nửa ly.",
+        "en": "Comment any sentence on your ex's post OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-24",
+      "category": "punishment",
+      "text": {
+        "vi": "Ăn 1 thìa mix của tất cả các món ăn hiện có trên bàn HOẶC Uống 1 ly.",
+        "en": "Eat 1 spoon mixed of all the dishes currently on the table OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-25",
+      "category": "truth",
+      "text": {
+        "vi": "Thành thật khai báo lần cuối cùng bạn xem phim heo (p0rn) là khi nào? HOẶC Uống nửa ly.",
+        "en": "Honestly declare when was the last time you watched porn (p0rn)? OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-26",
+      "category": "punishment",
+      "text": {
+        "vi": "Thổi hơi vào tai của 1 người khác giới được chỉ định HOẶC Uống nửa ly.",
+        "en": "Blow air into the ear of a designated person of the opposite sex OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-27",
+      "category": "punishment",
+      "text": {
+        "vi": "Huýt sáo và thả thính 1 người khác giới tính bất kì HOẶC Uống nửa ly.",
+        "en": "Whistle and flirt with a person of the opposite sex OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-28",
+      "category": "truth",
+      "text": {
+        "vi": "Kể tên lớp - trường từ hồi cấp 1 đến hiện tại HOẶC Uống nửa ly.",
+        "en": "Name the class - school from elementary school to present OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-29",
+      "category": "punishment",
+      "text": {
+        "vi": "Xoa đầu gối của 1 người khác giới trong 2 phút HOẶC Uống 1 ly.",
+        "en": "Rub the knee of a person of the opposite sex for 2 minutes OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-30",
+      "category": "punishment",
+      "text": {
+        "vi": "Hôn má 1 người khác giới được chỉ định HOẶC Uống 1.5 ly.",
+        "en": "Kiss a designated member of the opposite sex on the cheek OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-31",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhắm mắt và ăn 3 món do mọi người chỉ định HOẶC Uống nửa ly.",
+        "en": "Close your eyes and eat 3 dishes assigned by everyone OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-32",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên phải bạn đọc 3 tin nhắn gần đây nhất HOẶC Uống nửa ly.",
+        "en": "Have the person sitting to your right read the 3 most recent messages OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-33",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhắm mắt và vừa xoay tròn 12 vòng vừa hát 1 bài bất kì HOẶC Uống 1 ly.",
+        "en": "Close your eyes and spin 12 times while singing any song OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-34",
+      "category": "punishment",
+      "text": {
+        "vi": "Ăn/uống 1 miếng thức ăn/thức uống đã quá hạn HOẶC Uống 1 ly.",
+        "en": "Eat/drink 1 piece of expired food/drink OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-35",
+      "category": "punishment",
+      "text": {
+        "vi": "Đổi giày với 1 người khác giới được chỉ định và đi 2 vòng quanh mọi người HOẶC Uống nửa ly.",
+        "en": "Switch shoes with a designated person of the opposite sex and walk around everyone twice OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-36",
+      "category": "punishment",
+      "text": {
+        "vi": "Hát 1 bài khi đang ngậm 1 miệng đầy bơ đậu phộng (hoặc món tương tự) HOẶC Uống 1 ly.",
+        "en": "Sing a song with a mouthful of peanut butter (or something similar) OR Drink a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-37",
+      "category": "punishment",
+      "text": {
+        "vi": "Luôn thêm từ \"ức ức\" ở sau mỗi câu bạn nói trong 4 lượt HOẶC Uống nửa ly.",
+        "en": "Always add the word \"brisket\" after every sentence you say for 4 turns OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-38",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa chống đẩy vừa đếm to 30 lần HOẶC Uống nửa ly.",
+        "en": "Count out loud 30 times while doing push-ups OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-39",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện cho bố mẹ và bảo \"Con có bầu với --- rồi\" và cúp máy ngay HOẶC Uống 2 ly.",
+        "en": "Call your parents and say \"I'm pregnant with ---\" and hang up immediately OR Drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-40",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhắn tin cho 1 người khác giới và nhờ họ mua bao cao su/băng vệ sinh HOẶC Uống 2 ly.",
+        "en": "Text a person of the opposite sex and ask them to buy condoms/tampons OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-41",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhắn tin cho người yêu cũ và bảo là bạn vẫn còn rất yêu họ và muốn được quay lại HOẶC Uống 2 ly.",
+        "en": "Text your ex and tell them you still love them and want them back OR Have 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-42",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa hô hấp nhân tạo cho 1 người khác giới vừa gào \"Cố lên! Thở đi! Hãy sống!\" HOẶC Uống 2.5 ly.",
+        "en": "While giving artificial respiration to a person of the opposite sex, he shouted \"Come on! Breathe! Live!\" OR Drink 2.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-43",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa chạy tại chỗ vừa hát Quốc Ca HOẶC Uống 2 ly.",
+        "en": "Run in place while singing the National Anthem OR Drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-44",
+      "category": "dare",
+      "text": {
+        "vi": "Nhắn tin cho người yêu bảo bạn có bầu với người khác và không trả lời thêm cho đến khi kết thúc HOẶC Dừng cuộc chơi.",
+        "en": "Text your lover saying you're pregnant with someone else and don't respond until it's over OR Stop playing."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-45",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống hết phần thức uống còn lại trong ly của tất cả mọi người HOẶC Uống 2.5 ly.",
+        "en": "Drink the rest of the drink in everyone's glasses OR Drink 2.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-46",
+      "category": "dare",
+      "text": {
+        "vi": "Đãi thức ăn/đồ uống cho tất cả mọi người HOẶC Dừng cuộc chơi.",
+        "en": "Treat everyone to food/drinks OR Stop playing."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-47",
+      "category": "punishment",
+      "text": {
+        "vi": "Đội bao ni lông lên đầu và giữ nguyên trong 15 phút HOẶC Uống 1.5 ly.",
+        "en": "Put a plastic bag on your head and keep it there for 15 minutes OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-48",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhắn \"I love you\" đến sếp của bạn HOẶC Uống 2 ly.",
+        "en": "Text \"I love you\" to your boss OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-49",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng dậy đi quét toàn bộ phòng nơi cuộc chơi đang diễn ra HOẶC Uống 1 ly.",
+        "en": "Get up and scan the entire room where the game is taking place OR Have a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-50",
+      "category": "punishment",
+      "text": {
+        "vi": "Gõ cửa nhà hàng xóm và xin họ bao cao su/băng vệ sinh HOẶC Uống 1.5 ly.",
+        "en": "Knock on your neighbor's door and ask them for condoms/tampons OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-51",
+      "category": "punishment",
+      "text": {
+        "vi": "Buộc 2 tay lại phía sau và ngồi vào lòng 1 người khác giới được chỉ định trong 15 phút HOẶC Uống 2 ly.",
+        "en": "Tie your hands behind you and sit on the lap of a designated person of the opposite sex for 15 minutes OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-52",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện cho 1 người bất kì và hát cho họ nghe bài nhạc phim Titanic HOẶC Uống 1 ly.",
+        "en": "Call anyone and sing them the Titanic soundtrack OR Have a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-53",
+      "category": "dare",
+      "text": {
+        "vi": "Bình luận vào hình người yêu cũ chụp với người mới bài hát \"Gió\" HOẶC Dừng cuộc chơi.",
+        "en": "Comment on the picture of your ex with the new person singing the song \"Wind\" OR Stop playing."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-54",
+      "category": "punishment",
+      "text": {
+        "vi": "Set relationship trên Facebook với 1 người khác giới được chỉ định và giữ nguyên trong 1 ngày HOẶC Uống 2 ly.",
+        "en": "Set up a relationship on Facebook with a designated person of the opposite sex and keep it for 1 day OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-55",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài và năn nỉ 1 người lạ bố thí cho bạn 20k HOẶC Uống 1 ly.",
+        "en": "Go out and beg a stranger to give you 20k OR Drink a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-56",
+      "category": "punishment",
+      "text": {
+        "vi": "Mời người trong nhóm châm tửu 15 giây vào mặt bạn HOẶC Uống nửa ly.",
+        "en": "Invite someone in the group to light a drink in your face for 15 seconds OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-57",
+      "category": "punishment",
+      "text": {
+        "vi": "Đọc 4 dòng tin nhắn giữa bạn và người yêu/crush cho mọi người nghe HOẶC Uống 1 ly.",
+        "en": "Read 4 lines of text message between you and your lover/crush for everyone to hear OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-58",
+      "category": "punishment",
+      "text": {
+        "vi": "Lấy vớ của người ngồi đối diện và ngửi nó HOẶC Uống 1 ly.",
+        "en": "Take the sock of the person sitting across from you and smell it OR Drink a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-59",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện cho người yêu cũ và nói bạn muốn chia tay rồi cúp máy ngay HOẶC Uống 2 ly.",
+        "en": "Call your ex and say you want to break up and hang up immediately OR Have 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-60",
+      "category": "punishment",
+      "text": {
+        "vi": "Để mọi người xem lịch sử truy cập web của bạn HOẶC Uống nửa ly.",
+        "en": "Let people see your web history OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-61",
+      "category": "punishment",
+      "text": {
+        "vi": "Bỏ nước đá cục vào trong người và giữ nguyên trong 1 phút HOẶC Uống 1 ly.",
+        "en": "Put ice cubes inside and keep for 1 minute OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-62",
+      "category": "punishment",
+      "text": {
+        "vi": "Show hình chụp ảnh thẻ của bạn cho mọi người xem HOẶC Uống nửa ly.",
+        "en": "Show your ID photo for everyone to see OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-63",
+      "category": "punishment",
+      "text": {
+        "vi": "Đoán đúng tuổi của tất cả mọi người trong ván HOẶC Uống nửa ly.",
+        "en": "Guess the age of everyone in the game correctly OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-64",
+      "category": "punishment",
+      "text": {
+        "vi": "Gửi tấm hình selfie cho sếp của bạn HOẶC Uống 1 ly.",
+        "en": "Send a selfie to your boss OR Have a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-65",
+      "category": "punishment",
+      "text": {
+        "vi": "Mix thức uống của tất cả mọi người lại và uống nó HOẶC Uống 1.5 ly.",
+        "en": "Mix everyone's drink and drink it OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-66",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài và hét to \"Có ăn cướp, ăn cướp!\" HOẶC Uống 2 ly.",
+        "en": "Run out and shout \"There's a robbery, there's a robbery!\" OR Drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-67",
+      "category": "punishment",
+      "text": {
+        "vi": "Thực hiện động tác lộn mèo 6 lần HOẶC Uống nửa ly.",
+        "en": "Do the cat flip 6 times OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-68",
+      "category": "punishment",
+      "text": {
+        "vi": "Bịt mắt và đoán tên 3 người chạm vào bạn. Mỗi lần sai phạt uống nửa ly HOẶC Uống liền 2 ly.",
+        "en": "Blindfold yourself and guess the names of 3 people who touched you. For each mistake, drink half a glass OR Drink 2 glasses in a row."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-69",
+      "category": "punishment",
+      "text": {
+        "vi": "Giả giọng 1 người được chỉ định và gọi điện đến bố mẹ người đó HOẶC Uống nửa ly.",
+        "en": "Impersonate a designated person and call that person's parents OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-70",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người đối diện chọn ảnh đại diện Facebook của bạn và treo trong 24 giờ HOẶC Uống nửa ly.",
+        "en": "Let the other person choose your Facebook profile picture and hang it for 24 hours OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-71",
+      "category": "punishment",
+      "text": {
+        "vi": "Ăn 1 miếng bánh khi bị buộc 2 tay ở sau lưng HOẶC Uống nửa ly.",
+        "en": "Eat a piece of cake with your hands tied behind your back OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-72",
+      "category": "punishment",
+      "text": {
+        "vi": "Selfie khi đang chọt mũi của 1 người khác giới được chỉ định HOẶC Uống 1 ly.",
+        "en": "Selfie while poking the nose of a designated person of the opposite sex OR Drink a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-73",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi cho 1 người bạn, khi họ nghe thì nói \"Tôi đang bận không tiện nói\" rồi gác máy HOẶC Uống nửa ly.",
+        "en": "Call a friend, when they hear, say \"I'm busy and can't talk\" then hang up OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-74",
+      "category": "punishment",
+      "text": {
+        "vi": "Dùng giấy vệ sinh quấn quanh người như xác ướp và giữ trong 2 ván HOẶC Uống 1.5 ly.",
+        "en": "Use toilet paper to wrap around your body like a mummy and hold for 2 rounds OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-75",
+      "category": "punishment",
+      "text": {
+        "vi": "Để tất cả mọi người quẹt đồ ăn lên mặt bạn HOẶC Uống 1 ly.",
+        "en": "Let everyone swipe food on your face OR Drink a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-76",
+      "category": "truth",
+      "text": {
+        "vi": "Kể 1 chuyện ngớ ngẩn, nếu mọi người không cười thì uống nửa ly HOẶC Uống ngay 1 ly.",
+        "en": "Tell a silly story, if people don't laugh, drink half a glass OR Drink 1 glass right away."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-77",
+      "category": "punishment",
+      "text": {
+        "vi": "Để 1 người khác giới viết lên tay và đọc to nội dung đó HOẶC Uống nửa ly.",
+        "en": "Have someone of the opposite sex write on your hand and read it out loud OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-78",
+      "category": "punishment",
+      "text": {
+        "vi": "Đổi tên nickname boxchat của crush thành \"Chúa hề\" trong 24 giờ HOẶC Uống 1 ly.",
+        "en": "Change your crush's boxchat nickname to \"Clown God\" for 24 hours OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-79",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống 1 ngụm lớn nước mắm HOẶC Uống 2 ly.",
+        "en": "Drink 1 large sip of fish sauce OR Drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-80",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa soi gương vừa nói to \"Gương kia ngự ở trên tường, trần đời này không ai điên bằng ta\" 10 lần HOẶC Uống 1.5 ly.",
+        "en": "While looking in the mirror, say out loud \"Mirror is on the wall, no one in this world is as crazy as me\" 10 times OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-81",
+      "category": "punishment",
+      "text": {
+        "vi": "Đọc một đoạn truyện ngắn R18 (truyện cấm) HOẶC Uống 1.5 ly.",
+        "en": "Read a short story R18 (forbidden story) OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-82",
+      "category": "punishment",
+      "text": {
+        "vi": "Đăng status lên Facebook công bố mình bán hình trên OnlyFans HOẶC Uống 1.5 ly.",
+        "en": "Post a status on Facebook announcing that you're selling pictures on OnlyFans OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-83",
+      "category": "punishment",
+      "text": {
+        "vi": "Xoa bụng của 1 người khác giới trong 1 phút HOẶC Uống 1 ly.",
+        "en": "Rub the belly of a person of the opposite sex for 1 minute OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-84",
+      "category": "punishment",
+      "text": {
+        "vi": "Nêu tên người trong nhóm mà bạn muốn họ lên giường cùng bạn HOẶC Uống 1 ly.",
+        "en": "Name the person in your group you want to sleep with OR Drink a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-85",
+      "category": "punishment",
+      "text": {
+        "vi": "Gửi voicechat \"Em yêu anh nhiều lắm mạnh dời ơi đồ đĩ\" đến người được chỉ định HOẶC Uống 1.5 ly.",
+        "en": "Send voice chat \"I love you so much you slut\" to the designated person OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-86",
+      "category": "punishment",
+      "text": {
+        "vi": "Cởi 1 món đồ và gọi video với 1 người khác giới không có trong ván HOẶC Uống 1 ly.",
+        "en": "Take off an item of clothing and have a video call with a person of the opposite sex who is not in the game OR Have a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-87",
+      "category": "dare",
+      "text": {
+        "vi": "Áp mặt vào ngực của 1 người khác giới được chỉ định và hít sâu 3 lần HOẶC Dừng cuộc chơi.",
+        "en": "Press your face against the chest of a designated person of the opposite sex and take 3 deep breaths OR Stop playing."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-88",
+      "category": "dare",
+      "text": {
+        "vi": "Đi ra ngoài gõ cửa nhà 1 người khác giới và rủ đi khách sạn HOẶC Dừng cuộc chơi.",
+        "en": "Go out and knock on the door of a person of the opposite sex and ask them to go to a hotel OR Stop playing."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-89",
+      "category": "punishment",
+      "text": {
+        "vi": "Đổi toàn bộ trang phục với 1 người khác giới và giữ cho đến khi kết thúc HOẶC Uống 2.5 ly.",
+        "en": "Switch all outfits with a person of the opposite sex and keep it until the end OR Drink 2.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-90",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài và nói \"Tôi yêu bạn\" với 5 người khác giới HOẶC Uống 1.5 ly.",
+        "en": "Run out and say \"I love you\" to 5 people of the opposite sex OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-91",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài xin selfie với 3 người được chỉ định HOẶC Uống 2 ly.",
+        "en": "Run out and take a selfie with 3 designated people OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-92",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy ra ngoài ôm chặt 3 người bất kì HOẶC Uống 1 ly.",
+        "en": "Run outside and hug 3 random people OR Drink 1 drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-93",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng trước thùng rác và sủa gâu gâu trong 2 phút HOẶC Uống 1 ly.",
+        "en": "Stand in front of the trash can and bark woof for 2 minutes OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-94",
+      "category": "punishment",
+      "text": {
+        "vi": "Gõ mạnh vào cửa sổ nhà hàng xóm rồi bỏ chạy HOẶC Uống 1.5 ly.",
+        "en": "Knock hard on the neighbor's window and run away OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-95",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện báo bố mẹ sẽ bỏ nhà đi rồi gác máy, không nghe lại điện thoại HOẶC Uống 2 ly.",
+        "en": "Call and say your parents are leaving home, then hang up and don't answer the phone again OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-96",
+      "category": "punishment",
+      "text": {
+        "vi": "Mặc áo mưa ra ngoài nhảy múa tưng bừng trong 5 phút HOẶC Uống 1.5 ly.",
+        "en": "Wear a raincoat and go out dancing for 5 minutes OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-97",
+      "category": "dare",
+      "text": {
+        "vi": "Hôn lên cổ 1 người khác giới được chỉ định và để lại dấu hickey HOẶC Dừng cuộc chơi.",
+        "en": "Kiss a designated person of the opposite sex on the neck and leave a hickey OR Stop playing."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-98",
+      "category": "punishment",
+      "text": {
+        "vi": "Hôn trán người bên cạnh hoặc uống 2 ly.",
+        "en": "Kiss the forehead of the person next to you or drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-99",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi đối diện dùng giày của họ và tát vào bạn HOẶC Uống 1 ly.",
+        "en": "Have the person sitting across from you use their shoe and slap you OR Have a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-100",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài huýt sáo và tán tỉnh với 1 người bất kì HOẶC Uống 1.5 ly.",
+        "en": "Go out whistling and flirting with someone OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-101",
+      "category": "punishment",
+      "text": {
+        "vi": "Để 1 người khác giới bất kì làm móng cho bạn HOẶC Uống 1 ly.",
+        "en": "Let someone of the opposite sex do your nails OR Drink a drink."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-102",
+      "category": "punishment",
+      "text": {
+        "vi": "Quấn áo khoác lên đầu và múa trong 3 phút HOẶC Uống 1 ly.",
+        "en": "Wrap your jacket over your head and dance for 3 minutes OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-103",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy gọi điện chia tay với người yêu bạn và gác máy ngay không giải thích thêm HOẶC Uống 2 ly.",
+        "en": "Call your lover to break up and hang up immediately without further explanation OR Drink 2 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-104",
+      "category": "punishment",
+      "text": {
+        "vi": "Trong 15 giây hãy thực hiện ngay 10 cái hít đất HOẶC Uống 1 ly.",
+        "en": "In 15 seconds, do 10 push-ups OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-105",
+      "category": "punishment",
+      "text": {
+        "vi": "Mời trà sữa tất cả mọi người HOẶC Uống 3 ly HOẶC Dừng cuộc chơi.",
+        "en": "Invite everyone to milk tea OR Drink 3 glasses OR Stop the game."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-106",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy để 1 người bất kỳ kể ra 1 bí mật mà bạn đã bí mật kể riêng với họ HOẶC Uống 1.5 ly.",
+        "en": "Let any person tell a secret that you've secretly told them in private OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-107",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng trên ghế và hát lớn 1 bài bất kì trong 1 phút HOẶC Uống 2 ly.",
+        "en": "Stand on a chair and sing any song loudly for 1 minute OR Drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-108",
+      "category": "punishment",
+      "text": {
+        "vi": "Bịt mắt và kêu 'quạc quạc' trong 2 lượt tiếp theo HOẶC Uống 1.5 ly.",
+        "en": "Blindfold and say 'quack' for the next 2 turns OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-109",
+      "category": "punishment",
+      "text": {
+        "vi": "Ngồi lên bàn và làm pose tiên cá trong 30 giây HOẶC Uống 1 ly.",
+        "en": "Sit on the table and do mermaid pose for 30 seconds OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-110",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài và chào hỏi 5 người lạ bất kì, giao tiếp với mỗi người ít nhất 1 phút HOẶC Uống 1.5 ly.",
+        "en": "Go out and say hello to 5 random strangers, interacting with each person for at least 1 minute OR Drink 1.5 drinks."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-111",
+      "category": "punishment",
+      "text": {
+        "vi": "Set relationship với 1 người bất kì được chỉ định và để trong 24 giờ HOẶC Uống 1 ly.",
+        "en": "Set relationship with any designated person and leave for 24 hours OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-112",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy đọc thật to 2 đoạn tin nhắn mới nhất mà bạn vừa gửi người yêu bạn HOẶC Uống 1.5 ly.",
+        "en": "Read out loud the last 2 text messages you just sent your lover OR Drink 1.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-113",
+      "category": "punishment",
+      "text": {
+        "vi": "Để 1 người bất kì hất nước vào bạn HOẶC Uống 2 ly.",
+        "en": "Let someone throw water at you OR Drink 2 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-114",
+      "category": "punishment",
+      "text": {
+        "vi": "Buộc 2 tay lại phía sau và uống 1 cốc nước HOẶC Uống 1 ly.",
+        "en": "Tie your hands behind you and drink 1 glass of water OR Drink 1 glass."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-115",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy làm biểu cảm theo 1 meme được chỉ định và giữ trong 30 giây HOẶC Uống 0.5 ly.",
+        "en": "Make an expression according to a designated meme and hold for 30 seconds OR Drink 0.5 glasses."
+      }
+    },
+    {
+      "id": "pack6-lieu-mang-116",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhảy lò cò theo số tuổi của bạn (số tuổi = số lần) HOẶC Uống 0.5 ly.",
+        "en": "Hopscotch according to your age (age = number of times) OR Drink 0.5 glasses."
+      }
+    }
+  ],
+  "special_cards": []
+}

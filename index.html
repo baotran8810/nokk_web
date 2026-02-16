@@ -25,11 +25,11 @@
     <meta name="theme-color" content="#8B5CF6" />
 
     <!-- Preconnect to critical domains -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
-    <link rel="dns-prefetch" href="https://firebaselogging.googleapis.com">
-    <link rel="dns-prefetch" href="https://firebase.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://www.gstatic.com" crossorigin />
+    <link rel="dns-prefetch" href="https://firebaselogging.googleapis.com" />
+    <link rel="dns-prefetch" href="https://firebase.googleapis.com" />
 
     <!-- iOS meta tags & icons -->
     <meta name="mobile-web-app-capable" content="yes" />
@@ -44,7 +44,7 @@
     <link rel="manifest" href="manifest.json" />
 
     <!-- Preload critical resources -->
-    <link rel="preload" href="flutter_bootstrap.js" as="script">
+    <link rel="preload" href="flutter_bootstrap.js" as="script" />
 
     <!-- Firebase SDKs - Load async for better performance -->
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js" defer></script>
@@ -52,12 +52,13 @@
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-performance-compat.js" defer></script>
 
     <style>
-      /* Loading screen styles for better perceived performance */
+      /* Modern Loading Screen Styles */
       body {
         margin: 0;
         padding: 0;
-        background: linear-gradient(135deg, #0A0E27 0%, #1a1f3a 100%);
+        background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
         overflow: hidden;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       }
 
       #loading {
@@ -70,53 +71,218 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(135deg, #0A0E27 0%, #1a1f3a 100%);
+        background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
         z-index: 9999;
-        transition: opacity 0.3s ease-out;
+        transition:
+          opacity 0.5s ease-out,
+          transform 0.5s ease-out;
       }
 
       #loading.fade-out {
         opacity: 0;
+        transform: scale(0.95);
         pointer-events: none;
       }
 
-      .loader {
-        width: 50px;
-        height: 50px;
-        border: 4px solid rgba(139, 92, 246, 0.2);
-        border-top-color: #8B5CF6;
+      /* Animated particles background */
+      .particles {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        pointer-events: none;
+      }
+
+      .particle {
+        position: absolute;
+        width: 4px;
+        height: 4px;
+        background: rgba(139, 92, 246, 0.6);
         border-radius: 50%;
-        animation: spin 1s linear infinite;
+        animation: float 3s infinite ease-in-out;
       }
 
-      @keyframes spin {
-        to { transform: rotate(360deg); }
+      @keyframes float {
+        0%,
+        100% {
+          transform: translateY(0) translateX(0);
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
       }
 
+      /* Logo container with glow effect */
+      .logo-container {
+        position: relative;
+        margin-bottom: 40px;
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      .logo {
+        width: 120px;
+        height: 120px;
+        object-fit: contain;
+        filter: drop-shadow(0 0 20px rgba(139, 92, 246, 0.5));
+      }
+
+      .logo-glow {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 140px;
+        height: 140px;
+        background: radial-gradient(circle, rgba(139, 92, 246, 0.3) 0%, transparent 70%);
+        border-radius: 50%;
+        animation: glow 2s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0%,
+        100% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.05);
+        }
+      }
+
+      @keyframes glow {
+        0%,
+        100% {
+          opacity: 0.5;
+          transform: translate(-50%, -50%) scale(1);
+        }
+        50% {
+          opacity: 1;
+          transform: translate(-50%, -50%) scale(1.2);
+        }
+      }
+
+      /* Loading text */
       .loading-text {
-        margin-top: 20px;
-        color: #8B5CF6;
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-        font-size: 16px;
+        color: #8b5cf6;
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 30px;
+        letter-spacing: 0.5px;
+        animation: fadeInOut 2s ease-in-out infinite;
+      }
+
+      @keyframes fadeInOut {
+        0%,
+        100% {
+          opacity: 0.6;
+        }
+        50% {
+          opacity: 1;
+        }
+      }
+
+      /* Progress bar container */
+      .progress-container {
+        width: 280px;
+        height: 6px;
+        background: rgba(139, 92, 246, 0.1);
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+      }
+
+      .progress-bar {
+        height: 100%;
+        background: linear-gradient(90deg, #8b5cf6 0%, #a78bfa 100%);
+        border-radius: 10px;
+        width: 0%;
+        transition: width 0.3s ease-out;
+        box-shadow: 0 0 10px rgba(139, 92, 246, 0.5);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .progress-bar::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+        animation: shimmer 1.5s infinite;
+      }
+
+      @keyframes shimmer {
+        0% {
+          transform: translateX(-100%);
+        }
+        100% {
+          transform: translateX(100%);
+        }
+      }
+
+      /* Loading percentage text */
+      .progress-text {
+        color: rgba(139, 92, 246, 0.8);
+        font-size: 14px;
+        margin-top: 15px;
         font-weight: 500;
       }
 
       /* Prevent FOUC (Flash of Unstyled Content) */
       flutter-view {
         opacity: 0;
-        transition: opacity 0.3s ease-in;
+        transition: opacity 0.5s ease-in;
       }
 
       flutter-view.loaded {
         opacity: 1;
+      }
+
+      /* Responsive design for mobile */
+      @media (max-width: 600px) {
+        .logo {
+          width: 100px;
+          height: 100px;
+        }
+
+        .logo-glow {
+          width: 120px;
+          height: 120px;
+        }
+
+        .loading-text {
+          font-size: 16px;
+        }
+
+        .progress-container {
+          width: 240px;
+        }
       }
     </style>
   </head>
   <body>
     <!-- Loading screen -->
     <div id="loading">
-      <div class="loader"></div>
+      <!-- Animated particles background -->
+      <div class="particles" id="particles"></div>
+      
+      <!-- Logo with glow effect -->
+      <div class="logo-container">
+        <div class="logo-glow"></div>
+        <img src="logo.png" alt="Nốkk Logo" class="logo" />
+      </div>
+      
+      <!-- Loading text -->
       <div class="loading-text">Loading Nốkk...</div>
+      
+      <!-- Progress bar -->
+      <div class="progress-container">
+        <div class="progress-bar" id="progress-bar"></div>
+      </div>
+      <div class="progress-text" id="progress-text">0%</div>
     </div>
 
     <!-- Firebase Configuration -->
@@ -129,21 +295,88 @@
     <!-- Flutter Bootstrap -->
     <script src="flutter_bootstrap.js" async></script>
 
-    <!-- Remove loading screen when Flutter is ready -->
+    <!-- Enhanced loading screen control with progress tracking -->
     <script>
+      // Create animated particles
+      function createParticles() {
+        const particlesContainer = document.getElementById('particles');
+        const particleCount = 30;
+        
+        for (let i = 0; i < particleCount; i++) {
+          const particle = document.createElement('div');
+          particle.className = 'particle';
+          
+          // Random position
+          particle.style.left = Math.random() * 100 + '%';
+          particle.style.top = Math.random() * 100 + '%';
+          
+          // Random animation delay and duration
+          particle.style.animationDelay = Math.random() * 3 + 's';
+          particle.style.animationDuration = (Math.random() * 2 + 2) + 's';
+          
+          particlesContainer.appendChild(particle);
+        }
+      }
+      
+      // Initialize particles
+      createParticles();
+      
+      // Progress tracking
+      let progress = 0;
+      const progressBar = document.getElementById('progress-bar');
+      const progressText = document.getElementById('progress-text');
+      
+      // Simulate loading progress
+      const progressInterval = setInterval(() => {
+        if (progress < 90) {
+          // Increment progress with variable speed (faster at start, slower near end)
+          const increment = progress < 30 ? 3 : progress < 60 ? 2 : 1;
+          progress = Math.min(progress + increment, 90);
+          updateProgress(progress);
+        }
+      }, 100);
+      
+      function updateProgress(value) {
+        progressBar.style.width = value + '%';
+        progressText.textContent = Math.round(value) + '%';
+      }
+      
+      // Remove loading screen when Flutter is ready
       window.addEventListener('flutter-first-frame', function() {
-        var loading = document.getElementById('loading');
-        var flutterView = document.querySelector('flutter-view');
-        if (loading) {
-          loading.classList.add('fade-out');
-          setTimeout(function() {
-            loading.remove();
-          }, 300);
-        }
-        if (flutterView) {
-          flutterView.classList.add('loaded');
-        }
+        clearInterval(progressInterval);
+        
+        // Complete the progress bar
+        updateProgress(100);
+        
+        // Wait a moment to show 100% before fading out
+        setTimeout(() => {
+          const loading = document.getElementById('loading');
+          const flutterView = document.querySelector('flutter-view');
+          
+          if (loading) {
+            loading.classList.add('fade-out');
+            setTimeout(() => {
+              loading.remove();
+            }, 500);
+          }
+          
+          if (flutterView) {
+            flutterView.classList.add('loaded');
+          }
+        }, 300);
       });
+      
+      // Fallback: Remove loading screen after 10 seconds if Flutter doesn't load
+      setTimeout(() => {
+        const loading = document.getElementById('loading');
+        if (loading && !loading.classList.contains('fade-out')) {
+          console.warn('Loading screen timeout - removing after 10 seconds');
+          clearInterval(progressInterval);
+          updateProgress(100);
+          loading.classList.add('fade-out');
+          setTimeout(() => loading.remove(), 500);
+        }
+      }, 10000);
     </script>
 
     <!-- Vercel Analytics - Load last -->
