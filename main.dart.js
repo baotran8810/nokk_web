@@ -29009,7 +29009,7 @@ $S:2}
 A.aB8.prototype={
 $1(a){var s=A.dA().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/327ed814500baca0480a02f8555aa84a9afe32bf/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/e4b8dca3f1b4ede4c30371002441c88c12187ed6/":s)+a},
 $S:24}
 A.L_.prototype={
 XV(){var s=this.ae4(),r=$.aW.bq().ImageFilter.MakeColorFilter(s,null)
