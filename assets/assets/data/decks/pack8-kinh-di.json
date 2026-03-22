@@ -1,0 +1,314 @@
+{
+  "deck_info": {
+    "id": "pack8-kinh-di",
+    "nameVi": "Kinh Dị",
+    "nameEn": "Horror",
+    "descriptionVi": "Thử thách rùng rợn và đáng sợ",
+    "descriptionEn": "Spooky and scary challenges",
+    "category": "horror",
+    "theme": "fantasy",
+    "isFree": true,
+    "iconEmoji": "👻",
+    "isAdult": false,
+    "cardCount": 37
+  },
+  "cards": [
+    {
+      "id": "pack8-kinh-di-1",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu một ngày chúng ta chọn đi con đường riêng, bạn muốn mình sẽ luôn mang theo ký ức nào?",
+        "en": "If one day we choose to go our separate ways, what memory do you want to always carry with you?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-2",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ nỗi sợ lớn nhất của mình là gì?",
+        "en": "What do you think your biggest fear is?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-3",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn muốn mình mang đến cho bạn điều gì, và nói với bạn điều gì thường xuyên hơn?",
+        "en": "What would you like me to bring you, and tell you more often?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-4",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều mà bạn sợ phải hỏi mình là gì?",
+        "en": "What is one thing you're afraid to ask yourself?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-5",
+      "category": "game",
+      "text": {
+        "vi": "Bạn sợ sự cô đơn hay sợ sự gắn bó hơn?",
+        "en": "Are you more afraid of loneliness or afraid of attachment?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-6",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bạn biến mất vào ngày mai, điều gì ở bạn sẽ khiến người khác nhớ tới nhiều nhất?",
+        "en": "If you disappeared tomorrow, what would people miss the most about you?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-7",
+      "category": "dare",
+      "text": {
+        "vi": "Có đặc điểm tính cách nào của bản thân mà bạn luôn cố gắng che giấu vì sợ rằng nếu người khác biết, họ sẽ không còn yêu quý bạn nữa?",
+        "en": "Is there a personality trait about yourself that you always try to hide because you're afraid that if others knew, they wouldn't love you anymore?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-8",
+      "category": "game",
+      "text": {
+        "vi": "Điều gì ở hiện tại khiến bạn cảm thấy bất an nhất nhưng lại chưa bao giờ dám nói ra vì sợ bị đánh giá?",
+        "en": "What is the thing that makes you feel most insecure right now but you never dare to say it out loud for fear of being judged?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-9",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bị mắc kẹt trong 1 bộ phim kinh dị, bạn nghĩ bạn sẽ sống được bao lâu?",
+        "en": "If you were trapped in a horror movie, how long do you think you would live?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-10",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu ngày mai là ngày tận thế và bạn chỉ còn 12 giờ đồng hồ để sống, bạn sẽ làm gì?",
+        "en": "If tomorrow was the end of the world and you only had 12 hours left to live, what would you do?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-11",
+      "category": "dare",
+      "text": {
+        "vi": "Hãy massage vai cho người ngồi bên trái bạn.",
+        "en": "Massage the shoulders of the person sitting on your left."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-12",
+      "category": "truth",
+      "text": {
+        "vi": "Cơn ác mộng đáng sợ nhất bạn từng mơ thấy là gì?",
+        "en": "What is the scariest nightmare you've ever had?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-13",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy kể 1 chuyện tâm linh bạn từng gặp/nghe kể. Nếu bạn nhìn thấy ma, bạn sẽ làm gì?",
+        "en": "Tell me a spiritual story you have ever met/heard about. If you saw a ghost, what would you do?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-14",
+      "category": "dare",
+      "text": {
+        "vi": "Xem 1 đoạn clip kinh dị và cố không hét trong 1 phút.",
+        "en": "Watch a scary clip and try not to scream for 1 minute."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-15",
+      "category": "game",
+      "text": {
+        "vi": "Mang vớ lên tay trong 1 lượt.",
+        "en": "Put the socks on your hands in 1 turn."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-16",
+      "category": "dare",
+      "text": {
+        "vi": "Massage vai cho người ngồi bên trái.",
+        "en": "Shoulder massage for the person sitting on the left."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-17",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy kể 1 chuyện tâm linh bạn từng gặp hoặc nghe kể.",
+        "en": "Tell me a spiritual story you have met or heard about."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-18",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bạn nhìn thấy ma, bạn sẽ làm gì?",
+        "en": "If you saw a ghost, what would you do?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-19",
+      "category": "punishment",
+      "text": {
+        "vi": "Massage vai cho người ngồi bên phải bạn trong 5 phút HOẶC Uống nửa ly.",
+        "en": "Massage the shoulders of the person sitting on your right for 5 minutes OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-20",
+      "category": "truth",
+      "text": {
+        "vi": "Kể cho mọi người nghe cách mà bạn nghĩ họ sẽ chết HOẶC Uống nửa ly.",
+        "en": "Tell people how you think they will die OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-21",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên trái massage mộc cho bạn bằng chân trong 8 giây HOẶC Uống nửa ly.",
+        "en": "Have the person sitting on your left massage you with their feet for 8 seconds OR Drink half a glass."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-22",
+      "category": "punishment",
+      "text": {
+        "vi": "Xem 1 đoạn phim kinh dị ngắn, nếu bạn hét thì uống nửa ly HOẶC Uống ngay 1 ly.",
+        "en": "Watch a short horror movie, if you scream, drink half a glass OR Drink 1 glass immediately."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-23",
+      "category": "truth",
+      "text": {
+        "vi": "Điều bạn sợ hãi nhất hiện tại?",
+        "en": "What are you most afraid of right now?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-24",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có hay hát trong lúc tắm?",
+        "en": "Do you often sing in the shower?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-25",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu buộc phải chọn, bạn sẽ hôn - cưới - giết những ai trong này?",
+        "en": "If you had to choose, who would you kiss - marry - kill?"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-26",
+      "category": "punishment",
+      "text": {
+        "vi": "Từng gặp ma -> Uống 1.5 ly",
+        "en": "Ever seen a ghost -> Drink 1.5 glasses"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-27",
+      "category": "game",
+      "text": {
+        "vi": "Những người thích nghe truyện ma hãy cùng nâng ly nào",
+        "en": "Those who like to listen to ghost stories, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-28",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đang không mang giày thì uống",
+        "en": "Those who are not wearing shoes drink"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-29",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai có mang áo khoác theo thì uống",
+        "en": "Those who bring jackets can drink"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-30",
+      "category": "game",
+      "text": {
+        "vi": "Bình chọn ra ai là người drama nhất, người đó uống",
+        "en": "Vote on who has the most drama and that person drinks"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-31",
+      "category": "game",
+      "text": {
+        "vi": "Ở đây ai là người sợ côn trùng thì hãy uống đi",
+        "en": "Anyone here who is afraid of insects should drink it"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-32",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đang mang vớ thì uống",
+        "en": "Those who are wearing socks drink"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-33",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai từng mang danh là hot boy/hot girl thì uống",
+        "en": "Anyone who used to be known as a hot boy/hot girl should drink it"
+      }
+    },
+    {
+      "id": "pack8-kinh-di-34",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy mang ngược hướng giày cao gót và đi 1 vòng quanh mọi người HOẶC Uống 1 ly.",
+        "en": "Wear your high heels in the opposite direction and walk around everyone OR Have a drink."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-35",
+      "category": "dare",
+      "text": {
+        "vi": "Selfie trong nhà vệ sinh và up nó lên Facebook.",
+        "en": "Take a selfie in the bathroom and upload it to Facebook."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-36",
+      "category": "dare",
+      "text": {
+        "vi": "Massage vai cho 1 người khác giới được chỉ định.",
+        "en": "Shoulder massage for a designated person of the opposite sex."
+      }
+    },
+    {
+      "id": "pack8-kinh-di-37",
+      "category": "dare",
+      "text": {
+        "vi": "Massage vai cho người khác giới được chỉ định.",
+        "en": "Shoulder massage for the opposite sex is indicated."
+      }
+    }
+  ],
+  "special_cards": []
+}

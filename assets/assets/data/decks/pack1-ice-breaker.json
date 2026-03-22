@@ -1,0 +1,1595 @@
+{
+  "deck_info": {
+    "id": "pack1-ice-breaker",
+    "nameVi": "Nhập cuộc",
+    "nameEn": "Ice Breaker",
+    "descriptionVi": "Phá vỡ ngượng ngùng, chơi với các nhóm chưa quá thân thiết, dui dẻ không quạo",
+    "descriptionEn": "Break the ice, fun and lighthearted games",
+    "category": "iceBreak",
+    "theme": "minimal",
+    "isFree": true,
+    "iconEmoji": "🧊",
+    "isAdult": false,
+    "cardCount": 197
+  },
+  "cards": [
+    {
+      "id": "pack1-1",
+      "category": "game",
+      "text": {
+        "vi": "Người rút thẻ chọn 1 người bất kỳ. Hai người oẳn tù tì, người thua uống",
+        "en": "The person who draws the card chooses any person. Two people play rock, paper, scissors, the loser drinks"
+      }
+    },
+    {
+      "id": "pack1-2",
+      "category": "game",
+      "text": {
+        "vi": "Trong 10 giây, kể tên 5 món nhậu quen thuộc → không đủ uống",
+        "en": "In 10 seconds, name 5 familiar drinking dishes → not enough to drink"
+      }
+    },
+    {
+      "id": "pack1-3",
+      "category": "game",
+      "text": {
+        "vi": "1,2,3 Cả bàn cùng vỗ tay, ai vỗ chậm nhất uống 1 ly",
+        "en": "1,2,3 The whole table claps together, whoever claps the slowest gets 1 drink"
+      }
+    },
+    {
+      "id": "pack1-4",
+      "category": "game",
+      "text": {
+        "vi": "1,2,3 Cả bàn cùng giơ tay, người giơ chậm nhất uống",
+        "en": "1,2,3 The whole table raises their hands, the person who raises the slowest drinks"
+      }
+    },
+    {
+      "id": "pack1-5",
+      "category": "game",
+      "text": {
+        "vi": "Cả bàn cùng nói “dzô”, ai nói chậm nhất uống",
+        "en": "The whole table says \"dzo\", whoever speaks the slowest drinks"
+      }
+    },
+    {
+      "id": "pack1-6",
+      "category": "game",
+      "text": {
+        "vi": "Nhìn nhau 5 giây với người đối diện, ai cười hoặc quay mặt trước là uống",
+        "en": "Look at each other for 5 seconds with the other person, whoever smiles or turns to face first gets to drink"
+      }
+    },
+    {
+      "id": "pack1-7",
+      "category": "game",
+      "text": {
+        "vi": "Cả bàn đứng dậy – ai đứng sau cùng uống",
+        "en": "The whole table stood up - whoever stood last drank"
+      }
+    },
+    {
+      "id": "pack1-8",
+      "category": "game",
+      "text": {
+        "vi": "Cả bàn đặt điện thoại lên bàn. Ai có thông báo đến trước uống",
+        "en": "The whole table put their phones on the table. Those with notice come first to drink"
+      }
+    },
+    {
+      "id": "pack1-9",
+      "category": "game",
+      "text": {
+        "vi": "Ai mặc áo trắng hoặc đen thì uống",
+        "en": "Whoever wears white or black clothes drinks"
+      }
+    },
+    {
+      "id": "pack1-10",
+      "category": "game",
+      "text": {
+        "vi": "Người ít tuổi nhất uống với người lớn tuổi nhất",
+        "en": "The youngest person drinks with the oldest person"
+      }
+    },
+    {
+      "id": "pack1-11",
+      "category": "game",
+      "text": {
+        "vi": "Chơi nối từ, người cuối cùng \"bí\" thì uống",
+        "en": "Play word matching, the last person \"stuck\" drinks"
+      }
+    },
+    {
+      "id": "pack1-12",
+      "category": "game",
+      "text": {
+        "vi": "Không gọi tên nhau cho đến khi hết cuộc chơi. Ai phạm luật uống",
+        "en": "Don't call each other names until the end of the game. Who breaks the drinking rules?"
+      }
+    },
+    {
+      "id": "pack1-13",
+      "category": "game",
+      "text": {
+        "vi": "2 người nào mặc áo cùng màu thì mời nhau uống 1 ly",
+        "en": "Any two people wearing the same color shirt will invite each other to have a drink"
+      }
+    },
+    {
+      "id": "pack1-14",
+      "category": "game",
+      "text": {
+        "vi": "Không ai được nói từ \"Uống\"/\"Nốc\" từ giờ tới cuối buổi. Ai nói thì uống",
+        "en": "No one is allowed to say the word \"Drink\"/\"Knock\" from now until the end of the session. Whoever speaks, drinks"
+      }
+    },
+    {
+      "id": "pack1-15",
+      "category": "game",
+      "text": {
+        "vi": "Đếm số từ 1-10, ai nói trùng số thì uống",
+        "en": "Count the numbers from 1-10, whoever says the same number drinks"
+      }
+    },
+    {
+      "id": "pack1-16",
+      "category": "game",
+      "text": {
+        "vi": "Ai có pin điện thoại thấp nhất uống",
+        "en": "Whoever has the lowest phone battery drinks"
+      }
+    },
+    {
+      "id": "pack1-17",
+      "category": "game",
+      "text": {
+        "vi": "Người rút thẻ chọn 1 hướng (trái/phải). Tất cả quay theo hướng đó, ai quay sai uống",
+        "en": "The person who draws the card chooses 1 direction (left/right). Everyone turns in that direction, whoever turns wrong drinks"
+      }
+    },
+    {
+      "id": "pack1-18",
+      "category": "game",
+      "text": {
+        "vi": "Người rút thẻ giơ tay lên cao. Ai giơ chậm nhất uống",
+        "en": "The person who draws the card raises his hand high. Whoever raises the slowest drinks"
+      }
+    },
+    {
+      "id": "pack1-19",
+      "category": "game",
+      "text": {
+        "vi": "Người rút thẻ nói 1 nghề nghiệp. Mỗi người nói 1 vật dụng liên quan tới nghề đó. Ai bí uống",
+        "en": "The person who draws the card says 1 profession. Each person says one item related to that profession. Who can't drink?"
+      }
+    },
+    {
+      "id": "pack1-20",
+      "category": "game",
+      "text": {
+        "vi": "Người rút thẻ nói “đóng băng”. Ai còn cử động sau 3 giây uống",
+        "en": "The person who drew the card said “freeze”. Who still moves after 3 seconds of drinking?"
+      }
+    },
+    {
+      "id": "pack1-21",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống 1 ly",
+        "en": "Drink 1 glass"
+      }
+    },
+    {
+      "id": "pack1-22",
+      "category": "punishment",
+      "text": {
+        "vi": "Chọn 1 người uống cùng",
+        "en": "Choose someone to drink with"
+      }
+    },
+    {
+      "id": "pack1-23",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống xong rút thêm 1 thẻ",
+        "en": "After drinking, draw 1 more card"
+      }
+    },
+    {
+      "id": "pack1-24",
+      "category": "punishment",
+      "text": {
+        "vi": "Không được nói trong 1 lượt",
+        "en": "Do not speak in one turn"
+      }
+    },
+    {
+      "id": "pack1-25",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống 1 ly hoặc làm 1 thẻ dare",
+        "en": "Have a drink or make a dare card"
+      }
+    },
+    {
+      "id": "pack1-26",
+      "category": "punishment",
+      "text": {
+        "vi": "Mỗi lần nói phải giơ tay xin phép trong 1 lượt",
+        "en": "Each time you speak, you must raise your hand for permission once"
+      }
+    },
+    {
+      "id": "pack1-27",
+      "category": "punishment",
+      "text": {
+        "vi": "Chuyển phạt này cho người bên phải",
+        "en": "Pass this penalty to the person on the right"
+      }
+    },
+    {
+      "id": "pack1-28",
+      "category": "punishment",
+      "text": {
+        "vi": "Cả bàn cùng chỉ tay chọn 1 người khác, người đó quyết định bạn uống bao nhiêu",
+        "en": "The whole table points at another person, and that person decides how much you drink"
+      }
+    },
+    {
+      "id": "pack1-29",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống cùng người bên trái 1 ly",
+        "en": "Have a drink with the person on the left"
+      }
+    },
+    {
+      "id": "pack1-30",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống cùng người bên phải 1 ly",
+        "en": "Drink 1 glass with the person on the right"
+      }
+    },
+    {
+      "id": "pack1-31",
+      "category": "punishment",
+      "text": {
+        "vi": "Không dùng điện thoại cho tới lượt kế tiếp",
+        "en": "Don't use your phone until your next turn"
+      }
+    },
+    {
+      "id": "pack1-32",
+      "category": "punishment",
+      "text": {
+        "vi": "Trong 1 lượt tới, bạn phải trả lời mọi câu hỏi bằng gật/lắc đầu",
+        "en": "In the next turn, you must answer all questions by nodding/shaking your head"
+      }
+    },
+    {
+      "id": "pack1-33",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống cùng với người được cả bàn chỉ định",
+        "en": "Drink with the person nominated by the whole table"
+      }
+    },
+    {
+      "id": "pack1-34",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai để điện thoại trên bàn thì uống",
+        "en": "Anyone who leaves their phone on the table drinks it"
+      }
+    },
+    {
+      "id": "pack1-41",
+      "category": "game",
+      "text": {
+        "vi": "Ai đang đeo đồng hồ hoặc vòng tay uống",
+        "en": "Who is wearing a watch or drink bracelet"
+      }
+    },
+    {
+      "id": "pack1-42",
+      "category": "game",
+      "text": {
+        "vi": "Ai đang cầm ly trên tay uống 1 ly",
+        "en": "Who is holding a glass in hand to drink a glass?"
+      }
+    },
+    {
+      "id": "pack1-45",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống 2 ly",
+        "en": "Drink 2 glasses"
+      }
+    },
+    {
+      "id": "pack1-48",
+      "category": "truth",
+      "text": {
+        "vi": "Nickname hồi nhỏ của bạn là gì?",
+        "en": "What was your childhood nickname?"
+      }
+    },
+    {
+      "id": "pack1-49",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì khiến bạn thấy tự hào nhất về bản thân trong năm nay?",
+        "en": "What made you most proud of yourself this year?"
+      }
+    },
+    {
+      "id": "pack1-50",
+      "category": "truth",
+      "text": {
+        "vi": "Ứng dụng nào bạn dùng nhiều nhất trên điện thoại?",
+        "en": "Which application do you use the most on your phone?"
+      }
+    },
+    {
+      "id": "pack1-51",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có đang theo đuổi sở thích hay kỹ năng mới nào không?",
+        "en": "Are you pursuing any new interests or skills?"
+      }
+    },
+    {
+      "id": "pack1-52",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu trúng số 1 tỷ, việc đầu tiên bạn làm là gì?",
+        "en": "If you won 1 billion in the lottery, what is the first thing you would do?"
+      }
+    },
+    {
+      "id": "pack1-53",
+      "category": "truth",
+      "text": {
+        "vi": "Điều gì ở một người mới quen làm bạn thấy ấn tượng nhất?",
+        "en": "What is the thing about a new person that impresses you the most?"
+      }
+    },
+    {
+      "id": "pack1-54",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn mong muốn đạt được điều gì trong 1 năm tới?",
+        "en": "What do you hope to achieve in the next year?"
+      }
+    },
+    {
+      "id": "pack1-55",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu không làm công việc hiện tại, bạn nghĩ mình sẽ làm nghề gì?",
+        "en": "If you weren't doing your current job, what do you think you would do?"
+      }
+    },
+    {
+      "id": "pack1-56",
+      "category": "truth",
+      "text": {
+        "vi": "Món ăn nào mọi người đều thích nhưng bạn lại thấy... không ngon?",
+        "en": "What dish does everyone like but you find... not delicious?"
+      }
+    },
+    {
+      "id": "pack1-57",
+      "category": "truth",
+      "text": {
+        "vi": "Một điều gì đó bạn cực kỳ thích nhưng lại thấy hơi ngại khi kể cho người khác?",
+        "en": "Something you absolutely love but feel a bit shy about telling others?"
+      }
+    },
+    {
+      "id": "pack1-58",
+      "category": "truth",
+      "text": {
+        "vi": "Lần say rượu đáng nhớ (hoặc đáng xấu hổ) nhất của bạn là khi nào?",
+        "en": "When was your most memorable (or embarrassing) hangover?"
+      }
+    },
+    {
+      "id": "pack1-59",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thích một buổi hẹn hò náo nhiệt hay chỉ cần ngồi cafe yên tĩnh?",
+        "en": "Do you like a bustling date or just a quiet cafe?"
+      }
+    },
+    {
+      "id": "pack1-60",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn là người ưu tiên Sự nghiệp, Tình yêu hay Gia đình lên hàng đầu?",
+        "en": "Are you the person who prioritizes Career, Love or Family first?"
+      }
+    },
+    {
+      "id": "pack1-61",
+      "category": "truth",
+      "text": {
+        "vi": "Ấn tượng đầu tiên của bạn về người ngồi đối diện có đúng với hiện tại không?",
+        "en": "Is your first impression of the person sitting across from you correct now?"
+      }
+    },
+    {
+      "id": "pack1-62",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có bao giờ stalk người yêu cũ trên mạng xã hội bằng nick ảo không?",
+        "en": "Have you ever stalked your ex on social networks using a fake account?"
+      }
+    },
+    {
+      "id": "pack1-63",
+      "category": "truth",
+      "text": {
+        "vi": "Ai trong bàn này là người khó đoán nhất?",
+        "en": "Who at this table is the most unpredictable?"
+      }
+    },
+    {
+      "id": "pack1-64",
+      "category": "truth",
+      "text": {
+        "vi": "Lần gần nhất bạn nói dối là khi nào?",
+        "en": "When was the last time you lied?"
+      }
+    },
+    {
+      "id": "pack1-65",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn thích yêu người bằng tuổi, lớn tuổi hơn hay nhỏ tuổi hơn?",
+        "en": "Do you like to love someone the same age, older or younger?"
+      }
+    },
+    {
+      "id": "pack1-66",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có phải là người hay hối hận về những quyết định của mình không?",
+        "en": "Are you someone who often regrets your decisions?"
+      }
+    },
+    {
+      "id": "pack1-67",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có tin vào tình bạn khác giới không?",
+        "en": "Do you believe in opposite-sex friendship?"
+      }
+    },
+    {
+      "id": "pack1-68",
+      "category": "dare",
+      "text": {
+        "vi": "Cho cả bàn xem bức ảnh gần nhất trong album ảnh của bạn",
+        "en": "Show the table the most recent photo in your photo album"
+      }
+    },
+    {
+      "id": "pack1-69",
+      "category": "dare",
+      "text": {
+        "vi": "Đứng dậy và thực hiện một động tác thể dục (squat 5 cái hoặc chống đẩy 5 cái)",
+        "en": "Stand up and do an exercise (5 squats or 5 push-ups)"
+      }
+    },
+    {
+      "id": "pack1-70",
+      "category": "dare",
+      "text": {
+        "vi": "Kể một câu chuyện đùa. Nếu không ai cười, uống thêm 1 ly",
+        "en": "Tell a joke. If no one laughs, have another drink"
+      }
+    },
+    {
+      "id": "pack1-71",
+      "category": "dare",
+      "text": {
+        "vi": "Giả tiếng một con vật theo yêu cầu của cả bàn",
+        "en": "Impersonate the sound of an animal at the request of the whole table"
+      }
+    },
+    {
+      "id": "pack1-72",
+      "category": "dare",
+      "text": {
+        "vi": "Ăn một món đồ nhắm kèm với một loại gia vị không liên quan (vd: trái cây chấm nước mắm)",
+        "en": "Eat a side dish with an unrelated condiment (eg fruit dipped in fish sauce)"
+      }
+    },
+    {
+      "id": "pack1-73",
+      "category": "dare",
+      "text": {
+        "vi": "Đọc to thông báo (notification) gần nhất trên điện thoại",
+        "en": "Read out loud the most recent notification on your phone"
+      }
+    },
+    {
+      "id": "pack1-74",
+      "category": "dare",
+      "text": {
+        "vi": "Để người bên phải dùng bút vẽ một hình nhỏ lên tay bạn",
+        "en": "Have the person on your right use a pen to draw a small shape on your hand"
+      }
+    },
+    {
+      "id": "pack1-75",
+      "category": "dare",
+      "text": {
+        "vi": "Đổi ly của bạn với người ngồi xa nhất",
+        "en": "Swap your glass with the person sitting furthest away"
+      }
+    },
+    {
+      "id": "pack1-76",
+      "category": "dare",
+      "text": {
+        "vi": "Không được dùng tay khi uống lượt tiếp theo",
+        "en": "Do not use your hands when taking the next drink"
+      }
+    },
+    {
+      "id": "pack1-77",
+      "category": "dare",
+      "text": {
+        "vi": "Tự khen bản thân 3 điều trước mặt cả bàn",
+        "en": "Compliment yourself on three things in front of the whole table"
+      }
+    },
+    {
+      "id": "pack1-78",
+      "category": "dare",
+      "text": {
+        "vi": "Nói 1 câu khen người bên phải",
+        "en": "Say a compliment to the person on the right"
+      }
+    },
+    {
+      "id": "pack1-79",
+      "category": "dare",
+      "text": {
+        "vi": "Hãy để người đối diện cù lét bạn trong 10 giây mà bạn không được cười. Nếu cười, uống thêm 1 ly",
+        "en": "Let the other person tickle you for 10 seconds without laughing. If you laugh, drink another glass"
+      }
+    },
+    {
+      "id": "pack1-80",
+      "category": "dare",
+      "text": {
+        "vi": "Đứng lên và hô to: \"Tôi là người đẹp trai/xinh gái nhất ở đây!”",
+        "en": "Stand up and shout loudly: \"I am the most handsome/prettiest person here!\""
+      }
+    },
+    {
+      "id": "pack1-81",
+      "category": "dare",
+      "text": {
+        "vi": "Cho cả bàn xem 5 tấm ảnh cũ nhất trong album ảnh của bạn",
+        "en": "Show the table the 5 oldest photos in your photo album"
+      }
+    },
+    {
+      "id": "pack1-82",
+      "category": "dare",
+      "text": {
+        "vi": "Mở lịch sử tìm kiếm Google gần nhất và đọc to 3 dòng đầu tiên",
+        "en": "Open your most recent Google search history and read the first 3 lines out loud"
+      }
+    },
+    {
+      "id": "pack1-83",
+      "category": "dare",
+      "text": {
+        "vi": "Hãy nhìn thẳng vào mắt người đối diện trong 30 giây mà không được chớp mắt",
+        "en": "Look straight into the other person's eyes for 30 seconds without blinking"
+      }
+    },
+    {
+      "id": "pack1-84",
+      "category": "dare",
+      "text": {
+        "vi": "Ngậm một ngụm nước/bia và giữ trong miệng trong khi người khác cố gắng làm bạn cười",
+        "en": "Take a sip of water/beer and hold it in your mouth while the other person tries to make you laugh"
+      }
+    },
+    {
+      "id": "pack1-85",
+      "category": "dare",
+      "text": {
+        "vi": "Thử liếm mũi của mình. Nếu không làm được, uống 1 ly",
+        "en": "Try licking your nose. If you can't do that, drink 1 glass"
+      }
+    },
+    {
+      "id": "pack1-86",
+      "category": "dare",
+      "text": {
+        "vi": "Uống hết ly của bạn theo phong cách \"Giao bôi\" với người ngồi bên phải",
+        "en": "Finish your glass \"Chat\" style with the person sitting on your right"
+      }
+    },
+    {
+      "id": "pack1-87",
+      "category": "dare",
+      "text": {
+        "vi": "Hãy để người bên trái rót đồ uống cho bạn nhưng bạn không được nói \"dừng lại\", họ muốn rót bao nhiêu tùy ý",
+        "en": "Let the person on your left pour you a drink but don't say \"stop\", they can pour as much as they want"
+      }
+    },
+    {
+      "id": "pack1-88",
+      "category": "dare",
+      "text": {
+        "vi": "Mở danh sách cuộc gọi gần nhất, gọi cho người thứ 3 và hát một bài thiếu nhi cho họ nghe",
+        "en": "Open the list of recent calls, call a third person and sing a children's song to them"
+      }
+    },
+    {
+      "id": "pack1-89",
+      "category": "dare",
+      "text": {
+        "vi": "Để mọi người trong bàn đặt cho bạn một nickname mới và bạn phải dùng nó để xưng hô đến hết buổi nhậu",
+        "en": "Let everyone at the table give you a new nickname and you must use it for the rest of the drinking session"
+      }
+    },
+    {
+      "id": "pack1-90",
+      "category": "dare",
+      "text": {
+        "vi": "Mở Messenger, tìm người đầu tiên trong danh sách và gửi cho họ một icon \"❤️”",
+        "en": "Open Messenger, find the first person on the list and send them a \"❤️” emoji."
+      }
+    },
+    {
+      "id": "pack1-91",
+      "category": "game",
+      "text": {
+        "vi": "Sau 3 giây, mọi người chỉ vào người có vẻ \"hướng nội\" nhất. Ai bị chỉ nhiều nhất uống 1 ly và phải giới thiệu kỹ hơn về bản thân",
+        "en": "After 3 seconds, everyone pointed to the person who seemed the most \"introverted\". Whoever gets it only drinks 1 glass at most and has to introduce themselves more thoroughly"
+      }
+    },
+    {
+      "id": "pack1-92",
+      "category": "game",
+      "text": {
+        "vi": "Cả bàn cùng chọn \"Trà sữa\" hay \"Cà phê\". Ai thuộc phe thiểu số uống 1 ly",
+        "en": "The whole table chooses \"Milk Tea\" or \"Coffee\". Those who are in the minority drink 1 glass"
+      }
+    },
+    {
+      "id": "pack1-93",
+      "category": "game",
+      "text": {
+        "vi": "Bạn là \"vua\". Bạn làm gì cả bàn phải làm theo. Ai làm chậm nhất uống",
+        "en": "You are the \"king\". Whatever you do, the whole table must follow. Whoever works the slowest drinks"
+      }
+    },
+    {
+      "id": "pack1-94",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có bao giờ thử liếm khuỷu tay của mình chưa?",
+        "en": "Have you ever tried licking your elbow?"
+      }
+    },
+    {
+      "id": "pack1-95",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ ai trong bàn này sẽ là người kết hôn sớm nhất?",
+        "en": "Who do you think at this table will get married the soonest?"
+      }
+    },
+    {
+      "id": "pack1-96",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn mất bao lâu để vượt qua một cuộc chia tay?",
+        "en": "How long does it take you to get over a breakup?"
+      }
+    },
+    {
+      "id": "pack1-97",
+      "category": "truth",
+      "text": {
+        "vi": "Kiểu người nào khiến bạn cảm thấy \"dị ứng\" nhất khi tiếp xúc lần đầu?",
+        "en": "Which type of person makes you feel most \"allergic\" when you first meet?"
+      }
+    },
+    {
+      "id": "pack1-98",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có phải là người tin vào tình yêu sét đánh không?",
+        "en": "Are you someone who believes in love at first sight?"
+      }
+    },
+    {
+      "id": "pack1-99",
+      "category": "dare",
+      "text": {
+        "vi": "Hãy khen mỗi người trong bàn một câu thật lòng",
+        "en": "Give each person at the table a sincere compliment"
+      }
+    },
+    {
+      "id": "pack1-100",
+      "category": "dare",
+      "text": {
+        "vi": "Đứng dậy và đi catwalk một vòng quanh bàn nhậu như siêu mẫu",
+        "en": "Stand up and walk around the catwalk like a supermodel"
+      }
+    },
+    {
+      "id": "pack1-101",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được sở hữu 1 siêu năng lực, bạn muốn có sức mạnh gì?",
+        "en": "If you could possess one super power, what power would you like to have?"
+      }
+    },
+    {
+      "id": "pack1-102",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bạn trúng Vietlott, bạn sẽ mua gì trước?",
+        "en": "If you win Vietlott, what will you buy first?"
+      }
+    },
+    {
+      "id": "pack1-103",
+      "category": "truth",
+      "text": {
+        "vi": "Tài năng kì lạ nhất của bạn là gì?",
+        "en": "What is your strangest talent?"
+      }
+    },
+    {
+      "id": "pack1-104",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng gian lận khi thi cử chưa?",
+        "en": "Have you ever cheated on an exam?"
+      }
+    },
+    {
+      "id": "pack1-105",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu có khả năng chế tạo bất kì thứ gì bạn sẽ tạo ra vật gì?",
+        "en": "If you could make anything, what would you make?"
+      }
+    },
+    {
+      "id": "pack1-106",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu hóa thân thành tiên cá trong 36 giờ, bạn sẽ làm gì?",
+        "en": "If you transformed into a mermaid for 36 hours, what would you do?"
+      }
+    },
+    {
+      "id": "pack1-107",
+      "category": "punishment",
+      "text": {
+        "vi": "Kêu tiếng khỉ trong 1 phút.",
+        "en": "Make monkey noises for 1 minute."
+      }
+    },
+    {
+      "id": "pack1-108",
+      "category": "punishment",
+      "text": {
+        "vi": "Vừa nói vừa ngậm muỗng trong 1 lượt.",
+        "en": "Say it while holding the spoon in one go."
+      }
+    },
+    {
+      "id": "pack1-109",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy lên xuống cầu thang 2 lần.",
+        "en": "Run up and down the stairs 2 times."
+      }
+    },
+    {
+      "id": "pack1-110",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng dậy sủa gâu gâu trong 1 phút.",
+        "en": "Stand up and bark for 1 minute."
+      }
+    },
+    {
+      "id": "pack1-111",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy hát 3 câu trước khi bạn nói trong vòng 2 lượt.",
+        "en": "Sing 3 lines before you speak for 2 turns."
+      }
+    },
+    {
+      "id": "pack1-112",
+      "category": "punishment",
+      "text": {
+        "vi": "Cho mọi người xem lịch sử tìm kiếm gần đây nhất của bạn.",
+        "en": "Show people your most recent search history."
+      }
+    },
+    {
+      "id": "pack1-113",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu có khả năng tàng hình trong 1 ngày, bạn sẽ làm gì?",
+        "en": "If you had the ability to be invisible for a day, what would you do?"
+      }
+    },
+    {
+      "id": "pack1-114",
+      "category": "truth",
+      "text": {
+        "vi": "Người mà bạn ghét nhất là ai?",
+        "en": "Who is the person you hate the most?"
+      }
+    },
+    {
+      "id": "pack1-115",
+      "category": "truth",
+      "text": {
+        "vi": "Lần nói dối gần nhất của bạn là khi nào? Nội dung của lời nói dối đó?",
+        "en": "When was the last time you lied? The content of that lie?"
+      }
+    },
+    {
+      "id": "pack1-116",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bị mắc kẹt ở hoang đảo với 1 người bạn, bạn muốn ở cùng ai?",
+        "en": "If you were stranded on a desert island with a friend, who would you want to be with?"
+      }
+    },
+    {
+      "id": "pack1-117",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng ngoáy mũi ở nơi công cộng chưa?",
+        "en": "Have you ever picked your nose in public?"
+      }
+    },
+    {
+      "id": "pack1-118",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bị mắc kẹt trong 1 bộ phim kinh dị, bạn nghĩ bạn sẽ sống được bao lâu?",
+        "en": "If you were trapped in a horror movie, how long do you think you would live?"
+      }
+    },
+    {
+      "id": "pack1-119",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có từng tè trong hồ bơi?",
+        "en": "Have you ever peed in the swimming pool?"
+      }
+    },
+    {
+      "id": "pack1-120",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được ban cho 3 điều ước, bạn sẽ ước gì?",
+        "en": "If you were granted 3 wishes, what would you wish for?"
+      }
+    },
+    {
+      "id": "pack1-121",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có thích làm bạn của bản thân mình không?",
+        "en": "Do you like being your own friend?"
+      }
+    },
+    {
+      "id": "pack1-122",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bị lạc về quá khứ, bạn sẽ làm gì?",
+        "en": "If you got lost in the past, what would you do?"
+      }
+    },
+    {
+      "id": "pack1-123",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu ngày mai là ngày tận thế và bạn chỉ còn 12 giờ đồng hồ để sống, bạn sẽ làm gì?",
+        "en": "If tomorrow was the end of the world and you only had 12 hours left to live, what would you do?"
+      }
+    },
+    {
+      "id": "pack1-124",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có bộ sưu tập nào đáng tự hào không?",
+        "en": "Do you have a collection you're proud of?"
+      }
+    },
+    {
+      "id": "pack1-125",
+      "category": "punishment",
+      "text": {
+        "vi": "Giữ im lặng trong 3 lượt.",
+        "en": "Stay silent for 3 turns."
+      }
+    },
+    {
+      "id": "pack1-126",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng hết trước thùng rác trong 30 giây.",
+        "en": "Stand all the way in front of the trash can for 30 seconds."
+      }
+    },
+    {
+      "id": "pack1-127",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài và hét to 3 lần.",
+        "en": "Go outside and shout loudly 3 times."
+      }
+    },
+    {
+      "id": "pack1-128",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống 1 ly nước pha hỗn hợp với muối.",
+        "en": "Drink 1 glass of water mixed with salt."
+      }
+    },
+    {
+      "id": "pack1-129",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi đối diện búng trán bạn 4 cái.",
+        "en": "Have the person sitting across from you flick your forehead 4 times."
+      }
+    },
+    {
+      "id": "pack1-130",
+      "category": "punishment",
+      "text": {
+        "vi": "Xoay 10 vòng tại chỗ rồi đi 1 vòng quanh mọi người.",
+        "en": "Spin 10 times in place and then go around everyone."
+      }
+    },
+    {
+      "id": "pack1-131",
+      "category": "punishment",
+      "text": {
+        "vi": "Lau bảng trong 1 tuần.",
+        "en": "Clean the board in 1 week."
+      }
+    },
+    {
+      "id": "pack1-132",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài xin selfie với 1 người lạ bất kì.",
+        "en": "Go out and ask for a selfie with a random stranger."
+      }
+    },
+    {
+      "id": "pack1-133",
+      "category": "punishment",
+      "text": {
+        "vi": "Ăn 1 muỗng lớn muối.",
+        "en": "Eat 1 large spoon of salt."
+      }
+    },
+    {
+      "id": "pack1-134",
+      "category": "punishment",
+      "text": {
+        "vi": "Thực hiện động tác lộn mèo 5 lần.",
+        "en": "Perform the cat flip 5 times."
+      }
+    },
+    {
+      "id": "pack1-135",
+      "category": "truth",
+      "text": {
+        "vi": "Giáo viên bạn ghét nhất là ai?",
+        "en": "Who is the teacher you hate the most?"
+      }
+    },
+    {
+      "id": "pack1-136",
+      "category": "truth",
+      "text": {
+        "vi": "Điều xấu hổ nhất từng xảy ra với bạn là gì?",
+        "en": "What is the most embarrassing thing that has ever happened to you?"
+      }
+    },
+    {
+      "id": "pack1-137",
+      "category": "truth",
+      "text": {
+        "vi": "Điều thô lỗ nhất bạn từng làm với người khác là gì?",
+        "en": "What's the rudest thing you've ever done to another person?"
+      }
+    },
+    {
+      "id": "pack1-138",
+      "category": "truth",
+      "text": {
+        "vi": "Món ăn/thức uống bạn không thể sống nếu thiếu nó?",
+        "en": "Food/drink you cannot live without?"
+      }
+    },
+    {
+      "id": "pack1-139",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu bạn được trở thành bất kì ai trong 1 ngày, vậy bạn muốn là ai?",
+        "en": "If you could be anyone for one day, who would you be?"
+      }
+    },
+    {
+      "id": "pack1-140",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có ôm gối ôm hay thú bông khi ngủ?",
+        "en": "Do you hug a pillow or stuffed animal when you sleep?"
+      }
+    },
+    {
+      "id": "pack1-141",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng bỏ nhà ra đi khi cãi nhau với gia đình?",
+        "en": "Have you ever left home after arguing with your family?"
+      }
+    },
+    {
+      "id": "pack1-142",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được ban cho khả năng chơi giỏi 1 loại nhạc cụ, bạn sẽ chọn gì?",
+        "en": "If you were given the ability to play a musical instrument well, what would you choose?"
+      }
+    },
+    {
+      "id": "pack1-143",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có từng hét trong lúc đang tắm?",
+        "en": "Have you ever screamed while taking a shower?"
+      }
+    },
+    {
+      "id": "pack1-144",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng bày trò chơi khăm ai đó?",
+        "en": "Have you ever played a prank on someone?"
+      }
+    },
+    {
+      "id": "pack1-145",
+      "category": "truth",
+      "text": {
+        "vi": "Lần cuối cùng bạn dọn phòng là khi nào?",
+        "en": "When was the last time you cleaned your room?"
+      }
+    },
+    {
+      "id": "pack1-146",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn mong muốn có bao nhiêu đứa con trong tương lai?",
+        "en": "How many children do you hope to have in the future?"
+      }
+    },
+    {
+      "id": "pack1-147",
+      "category": "punishment",
+      "text": {
+        "vi": "Ngậm nước trong miệng và để mọi người chọc cười bạn trong 1 phút.",
+        "en": "Hold water in your mouth and let people make you laugh for 1 minute."
+      }
+    },
+    {
+      "id": "pack1-148",
+      "category": "punishment",
+      "text": {
+        "vi": "Hát 1 bài tùy ý.",
+        "en": "Sing a song of your choice."
+      }
+    },
+    {
+      "id": "pack1-149",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi đối diện bóp mũi bạn 3 cái.",
+        "en": "Have the person sitting across from you squeeze your nose 3 times."
+      }
+    },
+    {
+      "id": "pack1-150",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi ra ngoài và vẫy chào tất cả mọi người.",
+        "en": "Go out and wave to everyone."
+      }
+    },
+    {
+      "id": "pack1-151",
+      "category": "punishment",
+      "text": {
+        "vi": "Chạy 2 vòng quanh tất cả mọi người.",
+        "en": "Run 2 laps around everyone."
+      }
+    },
+    {
+      "id": "pack1-152",
+      "category": "punishment",
+      "text": {
+        "vi": "Ăn 1 miếng bánh khi bị buộc 2 tay ra phía sau.",
+        "en": "Eat a piece of cake with your hands tied behind your back."
+      }
+    },
+    {
+      "id": "pack1-153",
+      "category": "punishment",
+      "text": {
+        "vi": "Để mọi người cù lét bạn và ráng không cười trong 1 phút, cười thì làm lại.",
+        "en": "Let people tickle you and try not to laugh for a minute, then do it again."
+      }
+    },
+    {
+      "id": "pack1-154",
+      "category": "punishment",
+      "text": {
+        "vi": "Hãy massage vai cho người ngồi bên trái bạn.",
+        "en": "Massage the shoulders of the person sitting on your left."
+      }
+    },
+    {
+      "id": "pack1-155",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhảy 1 bài theo chỉ định của mọi người.",
+        "en": "Dance to a song according to everyone's instructions."
+      }
+    },
+    {
+      "id": "pack1-156",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên trái thắt tóc cho bạn.",
+        "en": "Let the person sitting on your left tie your hair."
+      }
+    },
+    {
+      "id": "pack1-157",
+      "category": "punishment",
+      "text": {
+        "vi": "Tay cầm viên đá cho đến khi nó tan chảy hoàn toàn.",
+        "en": "Hold the ice cube until it completely melts."
+      }
+    },
+    {
+      "id": "pack1-158",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi đối diện tát son cho bạn.",
+        "en": "Let the person sitting across from you apply lipstick to you."
+      }
+    },
+    {
+      "id": "pack1-159",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có ngồi lướt điện thoại trong toilet không?",
+        "en": "Do you sit and scroll on your phone in the toilet?"
+      }
+    },
+    {
+      "id": "pack1-160",
+      "category": "truth",
+      "text": {
+        "vi": "Giữa gia đình và bạn bè, bạn thích được đi chơi với ai hơn?",
+        "en": "Between family and friends, who do you like hanging out with more?"
+      }
+    },
+    {
+      "id": "pack1-161",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng giả bệnh để trốn học chưa?",
+        "en": "Have you ever faked being sick to skip school?"
+      }
+    },
+    {
+      "id": "pack1-162",
+      "category": "truth",
+      "text": {
+        "vi": "Biệt danh hồi bé của bạn là gì?",
+        "en": "What was your childhood nickname?"
+      }
+    },
+    {
+      "id": "pack1-163",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng ăn cắp đồ chưa?",
+        "en": "Have you ever stolen things?"
+      }
+    },
+    {
+      "id": "pack1-164",
+      "category": "truth",
+      "text": {
+        "vi": "Nếu được thay đổi giới tính trong 1 ngày, bạn sẽ làm gì?",
+        "en": "If you could change your gender for 1 day, what would you do?"
+      }
+    },
+    {
+      "id": "pack1-165",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn dự tính cuộc tình hiện tại sẽ kéo dài trong bao lâu?",
+        "en": "How long do you expect your current love affair to last?"
+      }
+    },
+    {
+      "id": "pack1-166",
+      "category": "truth",
+      "text": {
+        "vi": "Cơn ác mộng đáng sợ nhất bạn từng mơ thấy là gì?",
+        "en": "What is the scariest nightmare you've ever had?"
+      }
+    },
+    {
+      "id": "pack1-167",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có thể nhịn không gội đầu trong bao lâu?",
+        "en": "How long can you go without washing your hair?"
+      }
+    },
+    {
+      "id": "pack1-168",
+      "category": "truth",
+      "text": {
+        "vi": "Nơi điên rồ nhất bạn từng đi với bạn bè là đâu?",
+        "en": "What's the craziest place you've ever gone with your friends?"
+      }
+    },
+    {
+      "id": "pack1-169",
+      "category": "punishment",
+      "text": {
+        "vi": "Đi qua mượn lớp khác 1 món đồ bất kì.",
+        "en": "Go over and borrow any item from another class."
+      }
+    },
+    {
+      "id": "pack1-170",
+      "category": "punishment",
+      "text": {
+        "vi": "Show cho mọi người xem 1 bức hình dìm của bạn.",
+        "en": "Show everyone a hidden photo of you."
+      }
+    },
+    {
+      "id": "pack1-171",
+      "category": "punishment",
+      "text": {
+        "vi": "Hú tiếng sói trong 1 phút.",
+        "en": "Howl wolf for 1 minute."
+      }
+    },
+    {
+      "id": "pack1-172",
+      "category": "punishment",
+      "text": {
+        "vi": "Gọi điện cho 1 người bất kì và chúc họ sinh nhật vui vẻ.",
+        "en": "Call anyone and wish them a happy birthday."
+      }
+    },
+    {
+      "id": "pack1-173",
+      "category": "punishment",
+      "text": {
+        "vi": "Để mọi người vẽ lên mặt bạn.",
+        "en": "Let people draw on your face."
+      }
+    },
+    {
+      "id": "pack1-174",
+      "category": "punishment",
+      "text": {
+        "vi": "Mix tất cả thức uống lại với nhau và uống hỗn hợp đó.",
+        "en": "Mix all the drinks together and drink the mixture."
+      }
+    },
+    {
+      "id": "pack1-175",
+      "category": "punishment",
+      "text": {
+        "vi": "Đóng giả con vịt và kêu quác quác trong 30 giây.",
+        "en": "Pretend to be a duck and quack for 30 seconds."
+      }
+    },
+    {
+      "id": "pack1-176",
+      "category": "punishment",
+      "text": {
+        "vi": "Bịt mắt vẽ 1 bức tranh theo chỉ định của mọi người.",
+        "en": "Blindfolded, draw a picture according to everyone's instructions."
+      }
+    },
+    {
+      "id": "pack1-177",
+      "category": "punishment",
+      "text": {
+        "vi": "Ăn 1 muỗng tương ớt trộn sa tế.",
+        "en": "Eat 1 spoon of chili sauce mixed with satay."
+      }
+    },
+    {
+      "id": "pack1-178",
+      "category": "punishment",
+      "text": {
+        "vi": "Uống 1 ngụm nước mắm.",
+        "en": "Drink 1 sip of fish sauce."
+      }
+    },
+    {
+      "id": "pack1-179",
+      "category": "truth",
+      "text": {
+        "vi": "Hãy kể 1 chuyện tâm linh bạn từng gặp/nghe kể. Nếu bạn nhìn thấy ma, bạn sẽ làm gì?",
+        "en": "Tell me a spiritual story you have ever met/heard about. If you saw a ghost, what would you do?"
+      }
+    },
+    {
+      "id": "pack1-180",
+      "category": "truth",
+      "text": {
+        "vi": "Lần cuối bạn đánh nhau với người khác là khi nào?",
+        "en": "When was the last time you got into a fight with someone?"
+      }
+    },
+    {
+      "id": "pack1-181",
+      "category": "truth",
+      "text": {
+        "vi": "Người mà bạn thiếu tin tưởng nhất trong này là ai?",
+        "en": "Who is the person you lack the most trust in?"
+      }
+    },
+    {
+      "id": "pack1-182",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn đã từng múa và hát trước gương?",
+        "en": "Have you ever danced and sung in front of a mirror?"
+      }
+    },
+    {
+      "id": "pack1-183",
+      "category": "truth",
+      "text": {
+        "vi": "Kể về 1 chuyện mà bạn hối hận nhất.",
+        "en": "Tell about one thing you regret the most."
+      }
+    },
+    {
+      "id": "pack1-184",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn có từng bị bắt nạt?",
+        "en": "Have you ever been bullied?"
+      }
+    },
+    {
+      "id": "pack1-185",
+      "category": "truth",
+      "text": {
+        "vi": "Điều kì lạ nhất về gia đình của bạn là gì?",
+        "en": "What is the strangest thing about your family?"
+      }
+    },
+    {
+      "id": "pack1-186",
+      "category": "truth",
+      "text": {
+        "vi": "Bạn nghĩ ai là người đẹp trai nhất trong lớp? Và ai đang thích người đó?",
+        "en": "Who do you think is the most handsome person in the class? And who is liking that person?"
+      }
+    },
+    {
+      "id": "pack1-187",
+      "category": "truth",
+      "text": {
+        "vi": "Quốc gia mà bạn mong muốn sẽ có dịp đến tham quan?",
+        "en": "Which country do you hope to have the opportunity to visit?"
+      }
+    },
+    {
+      "id": "pack1-188",
+      "category": "punishment",
+      "text": {
+        "vi": "Xem 1 đoạn clip kinh dị và cố không hét trong 1 phút.",
+        "en": "Watch a scary clip and try not to scream for 1 minute."
+      }
+    },
+    {
+      "id": "pack1-189",
+      "category": "punishment",
+      "text": {
+        "vi": "Kể cho mọi người nghe 1 bí mật của bạn.",
+        "en": "Tell everyone one of your secrets."
+      }
+    },
+    {
+      "id": "pack1-190",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên phải đánh bạn 2 cái.",
+        "en": "Let the person sitting on the right hit you twice."
+      }
+    },
+    {
+      "id": "pack1-191",
+      "category": "punishment",
+      "text": {
+        "vi": "Nói liên tục không ngừng trong 5 phút.",
+        "en": "Talk continuously for 5 minutes without stopping."
+      }
+    },
+    {
+      "id": "pack1-192",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên trái xoa đầu bạn.",
+        "en": "Let the person sitting on your left pat your head."
+      }
+    },
+    {
+      "id": "pack1-193",
+      "category": "punishment",
+      "text": {
+        "vi": "Lần lượt đưa ra 2 lời nhận xét thật lòng với mọi người trong nhóm.",
+        "en": "Take turns giving 2 honest comments to everyone in the group."
+      }
+    },
+    {
+      "id": "pack1-194",
+      "category": "punishment",
+      "text": {
+        "vi": "Nhảy lò cò 1 vòng quanh mọi người.",
+        "en": "Hopscotch around everyone."
+      }
+    },
+    {
+      "id": "pack1-195",
+      "category": "punishment",
+      "text": {
+        "vi": "Không chớp mắt trong 30 giây.",
+        "en": "Don't blink for 30 seconds."
+      }
+    },
+    {
+      "id": "pack1-196",
+      "category": "punishment",
+      "text": {
+        "vi": "Mang vớ lên tay trong 1 lượt.",
+        "en": "Put the socks on your hands in 1 turn."
+      }
+    },
+    {
+      "id": "pack1-197",
+      "category": "punishment",
+      "text": {
+        "vi": "Quấn áo khoác lên đầu và giữ nguyên trong 2 lượt.",
+        "en": "Wrap the jacket over your head and keep it there for 2 turns."
+      }
+    }
+  ],
+  "special_cards": [
+    {
+      "id": "pack1-35",
+      "category": "special",
+      "text": {
+        "vi": "Cả bàn cùng đồng khởi uống 1 ly",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-36",
+      "category": "special",
+      "text": {
+        "vi": "Miễn uống 1 lượt bất kỳ",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-37",
+      "category": "special",
+      "text": {
+        "vi": "Bạn được chỉ định người khác uống thay trong 1 lượt bất kỳ",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-38",
+      "category": "special",
+      "text": {
+        "vi": "Chỉ định 1 người. Bạn uống, người đó cũng phải uống trong 1 lượt tới",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-39",
+      "category": "special",
+      "text": {
+        "vi": "Bạn được miễn 1 thẻ Phạt hoặc Dare bất kỳ",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-40",
+      "category": "special",
+      "text": {
+        "vi": "Tất cả đều uống, trừ bạn",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-43",
+      "category": "special",
+      "text": {
+        "vi": "Chọn 1 người không được nói chuyện trong 5 phút. Nếu nói phải uống 1 ly/lần",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-44",
+      "category": "special",
+      "text": {
+        "vi": "Đưa ra 1 quy tắc. Ai quên uống 1 ly",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-46",
+      "category": "special",
+      "text": {
+        "vi": "Mọi luật lệ đang có trên bàn bị xóa bỏ hết",
+        "en": ""
+      }
+    },
+    {
+      "id": "pack1-47",
+      "category": "special",
+      "text": {
+        "vi": "Bạn được 1 lần chuyển hình phạt cho cả bàn cùng gánh",
+        "en": ""
+      }
+    }
+  ]
+}

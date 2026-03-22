@@ -1,0 +1,498 @@
+{
+  "deck_info": {
+    "id": "pack5-uong-di-cho-chi",
+    "nameVi": "Uống Đi Chờ Chi",
+    "nameEn": "Drink Up",
+    "descriptionVi": "Uống đi, chờ chi nữa!",
+    "descriptionEn": "Drink up, what are you waiting for!",
+    "category": "drinkUp",
+    "theme": "minimal",
+    "isFree": true,
+    "iconEmoji": "🍺",
+    "isAdult": false,
+    "cardCount": 60
+  },
+  "cards": [
+    {
+      "id": "pack5-uong-di-cho-chi-1",
+      "category": "punishment",
+      "text": {
+        "vi": "Cả bàn đứng dậy – ai đứng sau cùng uống",
+        "en": "The whole table stood up - whoever stood last drank"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-2",
+      "category": "punishment",
+      "text": {
+        "vi": "2 người nào mặc áo cùng màu thì mời nhau uống 1 ly",
+        "en": "Any two people wearing the same color shirt will invite each other to have a drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-3",
+      "category": "game",
+      "text": {
+        "vi": "Ai có pin điện thoại thấp nhất uống",
+        "en": "Whoever has the lowest phone battery drinks"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-4",
+      "category": "punishment",
+      "text": {
+        "vi": "Tất cả đều uống, trừ bạn",
+        "en": "Everyone drinks, except you"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-5",
+      "category": "game",
+      "text": {
+        "vi": "Ai đang đeo đồng hồ hoặc vòng tay uống",
+        "en": "Who is wearing a watch or drink bracelet"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-6",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai đang cầm ly trên tay uống 1 ly",
+        "en": "Who is holding a glass in hand to drink a glass?"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-7",
+      "category": "punishment",
+      "text": {
+        "vi": "Ngậm một tấm thẻ/tờ giấy bằng môi và chuyền cho người bên cạnh. Ai làm rơi cả hai cùng uống",
+        "en": "Hold a card/paper between your lips and pass it to the person next to you. Whoever dropped it, both of them drank it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-8",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên trái đổ nước lên đầu bạn và đăng bức ảnh hiện trường đó lên Facebook. Hoặc cả 2 đều uống 1 ly.",
+        "en": "Have the person sitting on your left pour water over your head and post a photo of the scene on Facebook. Or both drink 1 glass."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-9",
+      "category": "punishment",
+      "text": {
+        "vi": "Chơi trò pocky game với 1 bạn khác giới được chỉ định. Hoặc cả 2 đều uống 1 ly.",
+        "en": "Play a Pocky game with a designated person of the opposite sex. Or both drink 1 glass."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-10",
+      "category": "punishment",
+      "text": {
+        "vi": "Ngồi áp má chạm má với người ngồi bên trái và giữ nguyên cho đến ván sau HOẶC Cả 2 đều uống nửa ly.",
+        "en": "Sit cheek to cheek with the person sitting on your left and keep it that way until the next game OR Both drink half a glass."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-11",
+      "category": "punishment",
+      "text": {
+        "vi": "Diễn tình tứ với người ngồi bên phải trong 2 lượt HOẶC Cả 2 đều uống nửa ly.",
+        "en": "Make love with the person sitting on the right for 2 turns OR Both drink half a glass."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-12",
+      "category": "punishment",
+      "text": {
+        "vi": "Đứng dậy và mời 1 bạn khác giới nhảy 1 bài bất kì HOẶC Cả 2 đều uống 1 ly.",
+        "en": "Get up and invite a friend of the opposite sex to dance to any song OR Both of you have a drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-13",
+      "category": "punishment",
+      "text": {
+        "vi": "Sơn móng chân cho 2 người khác giới được chỉ định HOẶC Cả 3 đều uống 1 ly.",
+        "en": "Paint the toenails of 2 designated people of the opposite sex OR All 3 drink 1 drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-14",
+      "category": "punishment",
+      "text": {
+        "vi": "Liếm vào mặt của 1 người khác giới được chỉ định HOẶC Cả 2 đều uống 1 ly.",
+        "en": "Lick the face of a designated person of the opposite sex OR Both of you drink the same drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-15",
+      "category": "punishment",
+      "text": {
+        "vi": "Để người ngồi bên trái đổ nước lên đầu và đăng ảnh hiện trường lên Facebook HOẶC Cả 2 đều uống 1 ly.",
+        "en": "Have the person sitting on the left pour water over their head and post a photo of the scene on Facebook OR Both have a drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-16",
+      "category": "punishment",
+      "text": {
+        "vi": "Chơi trò pocky game với 1 bạn khác giới được chỉ định HOẶC Cả 2 đều uống 1 ly.",
+        "en": "Play a Pocky game with a designated person of the opposite sex OR Both have a drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-17",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người từng xài phao trong thi cử hãy nâng ly đi nào",
+        "en": "To those of you who used buoys in exams, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-18",
+      "category": "dare",
+      "text": {
+        "vi": "Hội những người không biết ăn cay hãy cùng nâng ly nào",
+        "en": "For those who don't know how to eat spicy food, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-19",
+      "category": "punishment",
+      "text": {
+        "vi": "Tất cả mọi người đều uống, trừ người lớn tuổi nhất",
+        "en": "Everyone drank, except the eldest"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-20",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người có bồ hãy cùng nâng ly nào",
+        "en": "Fellow lovers, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-21",
+      "category": "game",
+      "text": {
+        "vi": "Uống nếu bạn từng chơi 1 loại nhạc cụ bất kỳ",
+        "en": "Drink if you have ever played any musical instrument"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-22",
+      "category": "punishment",
+      "text": {
+        "vi": "Hội những người khéo tay hãy cùng uống nào",
+        "en": "Group of skillful people, let's have a drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-23",
+      "category": "game",
+      "text": {
+        "vi": "Những ai đã từng đi picnic hãy cùng nâng ly nào",
+        "en": "Those of you who have been on a picnic, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-24",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người ăn cay hãy cùng nâng ly",
+        "en": "Association of spicy eaters, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-25",
+      "category": "game",
+      "text": {
+        "vi": "Team những người hay đi bar/club thì hãy uống đi",
+        "en": "For those who often go to bars/clubs, let's drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-26",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đã từng làm mất thẻ xe hãy tự giác uống đi",
+        "en": "Those who have lost their vehicle card should voluntarily drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-27",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người thích đọc sách được miễn uống",
+        "en": "The association of people who like to read books is exempt from drinking"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-28",
+      "category": "game",
+      "text": {
+        "vi": "Team thích mua hàng lúc 2h sáng thì uống",
+        "en": "The team likes to buy goods at 2:00 a.m. then drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-29",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai biết chơi cờ vua thì uống",
+        "en": "Those who know how to play chess drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-30",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đang dùng nhiều hơn 1 điện thoại di động thì uống",
+        "en": "Those who are using more than one mobile phone should drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-31",
+      "category": "game",
+      "text": {
+        "vi": "Uống nếu tất cả mọi người cùng cạn ly",
+        "en": "Drink if everyone drinks at the same time"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-32",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đang hoặc có ý định giảm cân thì uống",
+        "en": "Those who are or intend to lose weight should drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-33",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai LGBT thì uống",
+        "en": "LGBT people drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-34",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người thích nghe nhạc giao hưởng hãy uống đi nào",
+        "en": "Those who like to listen to symphonic music, let's drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-35",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người thích trời lạnh hãy cùng nâng ly nào",
+        "en": "For those who like cold weather, let's raise a glass"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-36",
+      "category": "game",
+      "text": {
+        "vi": "Hội những người bị say xe được miễn uống",
+        "en": "Association of people who suffer from motion sickness are exempted from drinking"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-37",
+      "category": "punishment",
+      "text": {
+        "vi": "Tất cả mọi người trừ bạn đều uống",
+        "en": "Everyone but you drinks"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-38",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai sinh năm số chẵn thì uống",
+        "en": "Those born in even-numbered years drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-39",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai biết lái xe hơi thì uống",
+        "en": "Those who know how to drive a car drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-40",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai hệ uống cà phê buổi sáng thì uống đi",
+        "en": "Those who drink coffee in the morning should drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-41",
+      "category": "game",
+      "text": {
+        "vi": "Hội những ai chơi hệ tẩy tóc thì hãy uống đi",
+        "en": "For those who play the hair bleaching system, please drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-42",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đeo lens thì uống",
+        "en": "Those who wear lenses drink them"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-43",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai đang có crush thì uống đi",
+        "en": "If you have a crush, drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-44",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai thích đi xem phim ở rạp thì uống",
+        "en": "Those who like to go see movies in theaters drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-45",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai đang là con nợ thì uống",
+        "en": "Anyone who is a debtor can drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-46",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai có thói quen đặt nhiều đồng hồ báo thức thì tự giác uống đi",
+        "en": "Those who have the habit of setting multiple alarm clocks should voluntarily drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-47",
+      "category": "game",
+      "text": {
+        "vi": "Uống nếu bạn đang đeo nhẫn",
+        "en": "Drink if you are wearing a ring"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-48",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai thích lướt Tóp Tóp thì uống",
+        "en": "Those who like surfing Top Top should drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-49",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai thích selfie thì uống",
+        "en": "Those who like selfies drink"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-50",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai từng xem p0rn thì uống",
+        "en": "Those who have watched p0rn drink it"
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-51",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai không phải trai thẳng uống 1 ly.",
+        "en": "Those who are not straight men drink 1 glass."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-52",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai sinh nhật tháng này uống 2 ly (Cùng hát chúc mừng nào!).",
+        "en": "Those who have a birthday this month drink 2 glasses (Let's sing congratulations!)."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-53",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai thấy mình đẹp trai xinh gái thì uống.",
+        "en": "Anyone who thinks they are handsome or beautiful will drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-54",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai đang hài lòng với hiện tại thì uống.",
+        "en": "Those who are satisfied with the present drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-55",
+      "category": "game",
+      "text": {
+        "vi": "Hội độc thân cùng ly nào.",
+        "en": "Let's have a drink together for singles."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-56",
+      "category": "punishment",
+      "text": {
+        "vi": "Ai đang đeo nhẫn thì uống.",
+        "en": "Whoever is wearing the ring drinks."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-57",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai có hình xăm thì uống.",
+        "en": "Those who have tattoos drink."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-58",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai uống cà phê mỗi ngày thì uống 1 ly.",
+        "en": "Those who drink coffee every day should drink 1 cup."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-59",
+      "category": "game",
+      "text": {
+        "vi": "Uống nếu bạn từng nhuộm tóc.",
+        "en": "Drink if you have ever dyed your hair."
+      }
+    },
+    {
+      "id": "pack5-uong-di-cho-chi-60",
+      "category": "punishment",
+      "text": {
+        "vi": "Những ai 30 ngày qua bị CSGT bắt thì uống 1 ly.",
+        "en": "Those who have been caught by traffic police in the past 30 days should drink 1 glass."
+      }
+    }
+  ],
+  "special_cards": []
+}

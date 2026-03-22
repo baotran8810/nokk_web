@@ -40,10 +40,10 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="apple-mobile-web-app-title" content="nokk_flutter" />
-    <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+    <link rel="apple-touch-icon" href="icons/Icon-192.png?v=2" />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="icon" type="image/png" href="favicon.png?v=2" />
 
     <title>Nốkk - Drinking Card Game</title>
     <link rel="manifest" href="manifest.json" />
@@ -273,16 +273,16 @@
     <div id="loading">
       <!-- Animated particles background -->
       <div class="particles" id="particles"></div>
-      
+
       <!-- Logo with glow effect -->
       <div class="logo-container">
         <div class="logo-glow"></div>
         <img src="logo.png" alt="Nốkk Logo" class="logo" />
       </div>
-      
+
       <!-- Loading text -->
       <div class="loading-text">Loading Nốkk...</div>
-      
+
       <!-- Progress bar -->
       <div class="progress-container">
         <div class="progress-bar" id="progress-bar"></div>
@@ -304,33 +304,33 @@
     <script>
       // Create animated particles
       function createParticles() {
-        const particlesContainer = document.getElementById('particles');
+        const particlesContainer = document.getElementById("particles");
         const particleCount = 30;
-        
+
         for (let i = 0; i < particleCount; i++) {
-          const particle = document.createElement('div');
-          particle.className = 'particle';
-          
+          const particle = document.createElement("div");
+          particle.className = "particle";
+
           // Random position
-          particle.style.left = Math.random() * 100 + '%';
-          particle.style.top = Math.random() * 100 + '%';
-          
+          particle.style.left = Math.random() * 100 + "%";
+          particle.style.top = Math.random() * 100 + "%";
+
           // Random animation delay and duration
-          particle.style.animationDelay = Math.random() * 3 + 's';
-          particle.style.animationDuration = (Math.random() * 2 + 2) + 's';
-          
+          particle.style.animationDelay = Math.random() * 3 + "s";
+          particle.style.animationDuration = Math.random() * 2 + 2 + "s";
+
           particlesContainer.appendChild(particle);
         }
       }
-      
+
       // Initialize particles
       createParticles();
-      
+
       // Progress tracking
       let progress = 0;
-      const progressBar = document.getElementById('progress-bar');
-      const progressText = document.getElementById('progress-text');
-      
+      const progressBar = document.getElementById("progress-bar");
+      const progressText = document.getElementById("progress-text");
+
       // Simulate loading progress
       const progressInterval = setInterval(() => {
         if (progress < 90) {
@@ -340,48 +340,58 @@
           updateProgress(progress);
         }
       }, 100);
-      
+
       function updateProgress(value) {
-        progressBar.style.width = value + '%';
-        progressText.textContent = Math.round(value) + '%';
+        progressBar.style.width = value + "%";
+        progressText.textContent = Math.round(value) + "%";
       }
-      
+
       // Remove loading screen when Flutter is ready
-      window.addEventListener('flutter-first-frame', function() {
+      window.addEventListener("flutter-first-frame", function () {
         clearInterval(progressInterval);
-        
+
         // Complete the progress bar
         updateProgress(100);
-        
+
         // Wait a moment to show 100% before fading out
         setTimeout(() => {
-          const loading = document.getElementById('loading');
-          const flutterView = document.querySelector('flutter-view');
-          
+          const loading = document.getElementById("loading");
+          const flutterView = document.querySelector("flutter-view");
+
           if (loading) {
-            loading.classList.add('fade-out');
+            loading.classList.add("fade-out");
             setTimeout(() => {
               loading.remove();
             }, 500);
           }
-          
+
           if (flutterView) {
-            flutterView.classList.add('loaded');
+            flutterView.classList.add("loaded");
           }
         }, 300);
       });
-      
+
       // Fallback: Remove loading screen after 10 seconds if Flutter doesn't load
       setTimeout(() => {
-        const loading = document.getElementById('loading');
-        if (loading && !loading.classList.contains('fade-out')) {
-          console.warn('Loading screen timeout - removing after 10 seconds');
+        const loading = document.getElementById("loading");
+        if (loading && !loading.classList.contains("fade-out")) {
+          console.warn("Loading screen timeout - removing after 10 seconds");
           clearInterval(progressInterval);
           updateProgress(100);
-          loading.classList.add('fade-out');
+          loading.classList.add("fade-out");
           setTimeout(() => loading.remove(), 500);
         }
       }, 10000);
     </script>
+
+    <!-- Vercel Analytics - Load last -->
+    <script>
+      window.va =
+        window.va ||
+        function () {
+          (window.vaq = window.vaq || []).push(arguments);
+        };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
   </body>
 </html>
