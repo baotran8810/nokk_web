@@ -110656,7 +110656,7 @@ case 5:return A.t(null,r)
 case 1:return A.r(p.at(-1),r)}})
 return A.u($async$BZ,r)}}
 A.b5t.prototype={
-gkr(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="https://admin.nokk.online",c="query",b=this.a
+gkr(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="https://admin.nokk.app",c="query",b=this.a
 if(b==null){s=t.N
 r=t.z
 q=A.z(s,r)
@@ -110670,7 +110670,7 @@ n=p.gd4()
 m=$.bpt.an(o)&&$.bpt.h(0,o).d.an(n)
 l=J.f(q.h(0,"forceNew"),!0)||J.f(q.h(0,"force new connection"),!0)||!1===q.h(0,"multiplex")||m
 k=A.bY()
-if(l){$.bJ6().bt(B.W,"ignoring socket cache for https://admin.nokk.online",e,e)
+if(l){$.bJ6().bt(B.W,"ignoring socket cache for https://admin.nokk.app",e,e)
 k.b=A.bA2(q,d)}else{j=$.bpt.h(0,o)
 if(j==null){j=A.bA2(q,d)
 $.bpt.m(0,o,j)}k.b=j}if(p.gn0().length!==0&&q.h(0,c)==null)q.m(0,c,p.gn0())
