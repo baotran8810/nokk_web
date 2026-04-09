@@ -51,8 +51,12 @@
     <!-- Preload critical resources -->
     <link rel="preload" href="flutter_bootstrap.js" as="script" />
 
+    <!-- Google Sign-In client ID (required for web) -->
+    <meta name="google-signin-client_id" content="444227331871-t4u59efh7bo4oq8s1h0bb8u6qanlkj17.apps.googleusercontent.com">
+
     <!-- Firebase SDKs - Load async for better performance -->
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js" defer></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js" defer></script>
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-analytics-compat.js" defer></script>
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-performance-compat.js" defer></script>
 
