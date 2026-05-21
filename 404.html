@@ -370,17 +370,19 @@
         }, 300);
       });
 
-      // Fallback: Remove loading screen after 10 seconds if Flutter doesn't load
+      // Fallback: remove loading screen if Flutter is slow (e.g. large bundle on 3G)
       setTimeout(() => {
         const loading = document.getElementById("loading");
         if (loading && !loading.classList.contains("fade-out")) {
-          console.warn("Loading screen timeout - removing after 10 seconds");
+          console.warn("Loading screen timeout - removing after 20 seconds");
           clearInterval(progressInterval);
           updateProgress(100);
           loading.classList.add("fade-out");
           setTimeout(() => loading.remove(), 500);
+          const flutterView = document.querySelector("flutter-view");
+          if (flutterView) flutterView.classList.add("loaded");
         }
-      }, 10000);
+      }, 20000);
     </script>
   </body>
 </html>
