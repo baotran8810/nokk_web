@@ -37,7 +37,7 @@
         style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
         font-src 'self' data: https://fonts.gstatic.com;
         img-src 'self' data: blob: https:;
-        connect-src 'self' https://*.googleapis.com https://*.firebaseio.com https://*.firebaseapp.com https://firebaselogging.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://admin.nokk.app wss://admin.nokk.app https://accounts.google.com;
+        connect-src 'self' https://*.googleapis.com https://*.firebaseio.com https://*.firebaseapp.com https://firebaselogging.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://www.gstatic.com https://fonts.gstatic.com https://admin.nokk.app wss://admin.nokk.app https://accounts.google.com;
         frame-src https://accounts.google.com https://*.firebaseapp.com;
         object-src 'none';
         base-uri 'self';
@@ -73,11 +73,11 @@
     <!-- Google Sign-In client ID (required for web) -->
     <meta name="google-signin-client_id" content="444227331871-t4u59efh7bo4oq8s1h0bb8u6qanlkj17.apps.googleusercontent.com">
 
-    <!-- Firebase SDKs - Load async for better performance -->
-    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js" defer></script>
-    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js" defer></script>
-    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-analytics-compat.js" defer></script>
-    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-performance-compat.js" defer></script>
+    <!-- Firebase JS SDK is loaded by FlutterFire (`firebase_core_web`) at
+         runtime. Do NOT add manual <script src="…firebase-*-compat.js">
+         tags here — they conflict with FlutterFire's own (modular) loader
+         and can hang `Firebase.initializeApp()` waiting on a version that
+         never matches. -->
 
     <style>
       /* Modern Loading Screen Styles */
@@ -312,13 +312,6 @@
       </div>
       <div class="progress-text" id="progress-text">0%</div>
     </div>
-
-    <!-- Firebase Configuration -->
-    <!-- This will be auto-populated by FlutterFire CLI -->
-    <script id="firebase-config">
-      // Firebase configuration will be inserted here after running 'flutterfire configure'
-      // The firebase_options.dart file will provide the configuration
-    </script>
 
     <!-- Flutter Bootstrap -->
     <script src="flutter_bootstrap.js" async></script>
