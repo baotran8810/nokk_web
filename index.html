@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="vi">
   <head>
     <!--
     If you are serving your web app in a path other than the root, change the
@@ -18,8 +18,25 @@
 
     <meta charset="UTF-8" />
     <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <!-- Zoom must stay allowed (WCAG 1.4.4): never add user-scalable=no or
+         maximum-scale=1. Flutter's full-page embedder replaces this tag at
+         startup with `width=device-width, initial-scale=1.0, maximum-scale=5.0`. -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="The ultimate drinking card game for parties. Play Truth or Dare, Never Have I Ever, and more with friends!" />
+    <meta name="description" content="Nốkk – trò chơi bài uống rượu cho các buổi tiệc. Chơi Thật hay Thách, Tôi chưa bao giờ và nhiều bộ bài vui nhộn khác cùng bạn bè, trên một máy hoặc nhiều máy." />
+
+    <!-- Open Graph / social previews -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Nốkk" />
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:url" content="https://nokk.app/" />
+    <meta property="og:title" content="Nốkk – Trò chơi bài uống rượu cho bữa tiệc" />
+    <meta property="og:description" content="Thật hay Thách, Tôi chưa bao giờ và nhiều bộ bài khác để khuấy động cuộc vui cùng bạn bè." />
+    <meta property="og:image" content="https://nokk.app/assets/assets/images/img_logo.png" />
+    <meta property="og:image:width" content="1024" />
+    <meta property="og:image:height" content="1024" />
+    <meta property="og:image:alt" content="Logo Nốkk" />
+    <meta name="twitter:card" content="summary" />
 
     <!--
       Content Security Policy (via meta — works on any static host).
@@ -28,17 +45,23 @@
       HSTS, X-Frame-Options, X-Content-Type-Options, Referrer-Policy and
       Permissions-Policy cannot be set via meta — those must be configured
       on the hosting platform (see docs/WEB_SECURITY_HEADERS.md).
+      Third-party hosts: gstatic (CanvasKit, reCAPTCHA), googletagmanager +
+      google-analytics (firebase_analytics / gtag), static.cloudflareinsights
+      + cloudflareinsights (Cloudflare Web Analytics beacon), accounts.google
+      (Google Sign-In script/CSS/iframe), www.google.com/recaptcha (App Check
+      reCAPTCHA v3), admin.nokk.app (Socket.IO). Keep in sync with the
+      `nokk_web` deploy repo.
     -->
     <meta
       http-equiv="Content-Security-Policy"
       content="
         default-src 'self';
-        script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://apis.google.com https://accounts.google.com;
-        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+        script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://apis.google.com https://accounts.google.com https://www.googletagmanager.com https://static.cloudflareinsights.com https://www.google.com/recaptcha/;
+        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://accounts.google.com;
         font-src 'self' data: https://fonts.gstatic.com;
         img-src 'self' data: blob: https:;
-        connect-src 'self' https://*.googleapis.com https://*.firebaseio.com https://*.firebaseapp.com https://firebaselogging.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://www.gstatic.com https://fonts.gstatic.com https://admin.nokk.app wss://admin.nokk.app https://accounts.google.com;
-        frame-src https://accounts.google.com https://*.firebaseapp.com;
+        connect-src 'self' https://*.googleapis.com https://*.firebaseio.com https://*.firebaseapp.com https://firebaselogging.googleapis.com https://firebaseinstallations.googleapis.com https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://www.gstatic.com https://fonts.gstatic.com https://admin.nokk.app wss://admin.nokk.app https://accounts.google.com https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com https://cloudflareinsights.com;
+        frame-src https://accounts.google.com https://*.firebaseapp.com https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha/;
         object-src 'none';
         base-uri 'self';
         form-action 'self'
@@ -58,13 +81,13 @@
     <!-- iOS meta tags & icons -->
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="nokk_flutter" />
+    <meta name="apple-mobile-web-app-title" content="Nốkk" />
     <link rel="apple-touch-icon" href="icons/Icon-192.png?v=2" />
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="favicon.png?v=2" />
 
-    <title>Nốkk - Drinking Card Game</title>
+    <title>Nốkk – Trò chơi bài uống rượu cho bữa tiệc</title>
     <link rel="manifest" href="manifest.json" />
 
     <!-- Preload critical resources -->
@@ -259,6 +282,56 @@
         font-weight: 500;
       }
 
+      /* Static, crawlable description of the app (META-04). Visually hidden
+         but still exposed to crawlers and screen readers until Flutter's
+         first frame removes it. Not display:none. */
+      .visually-hidden {
+        position: absolute !important;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+
+      .noscript-message,
+      .load-error {
+        color: #e9e5ff;
+        font-size: 15px;
+        line-height: 1.5;
+        text-align: center;
+        max-width: 320px;
+        margin-top: 24px;
+      }
+
+      .noscript-message {
+        position: fixed;
+        top: 24px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 10000;
+        width: calc(100% - 32px);
+      }
+
+      .load-error[hidden] {
+        display: none;
+      }
+
+      .load-error button {
+        margin-top: 12px;
+        padding: 10px 24px;
+        border: 0;
+        border-radius: 999px;
+        background: linear-gradient(90deg, #8b5cf6 0%, #a78bfa 100%);
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        cursor: pointer;
+      }
+
       /* Prevent FOUC (Flash of Unstyled Content) */
       flutter-view {
         opacity: 0;
@@ -292,6 +365,35 @@
     </style>
   </head>
   <body>
+    <noscript>
+      <p class="noscript-message">
+        Nốkk cần JavaScript để chạy. Vui lòng bật JavaScript trong trình duyệt và tải lại trang.<br />
+        Nốkk needs JavaScript to run. Please enable JavaScript and reload the page.
+      </p>
+    </noscript>
+
+    <!-- Crawlable description (the app itself renders to a canvas). Removed
+         on Flutter's first frame together with the loading screen. -->
+    <main id="seo-content" class="visually-hidden">
+      <h1>Nốkk – Trò chơi bài uống rượu cho bữa tiệc</h1>
+      <p>
+        Nốkk là trò chơi bài miễn phí cho các buổi tiệc và cuộc nhậu cùng bạn bè.
+        Chọn bộ bài như Thật hay Thách, Tôi chưa bao giờ và nhiều thử thách vui nhộn khác,
+        chơi trên một điện thoại hoặc tạo phòng để mọi người cùng tham gia từ máy của mình.
+      </p>
+      <h2>Cách chơi</h2>
+      <ol>
+        <li>Thêm tên người chơi.</li>
+        <li>Chọn một hoặc nhiều bộ bài.</li>
+        <li>Lần lượt rút bài, làm theo thử thách hoặc trả lời câu hỏi – không làm thì uống!</li>
+      </ol>
+      <p lang="en">
+        Nốkk is a party drinking card game: pick decks like Truth or Dare and Never Have I Ever,
+        add players, and take turns drawing cards on one phone or in a multiplayer room.
+        Please drink responsibly; for adults of legal drinking age only.
+      </p>
+    </main>
+
     <!-- Loading screen -->
     <div id="loading">
       <!-- Animated particles background -->
@@ -304,17 +406,27 @@
       </div>
 
       <!-- Loading text -->
-      <div class="loading-text">Loading Nốkk...</div>
+      <div class="loading-text">Đang tải Nốkk...</div>
 
       <!-- Progress bar -->
       <div class="progress-container">
         <div class="progress-bar" id="progress-bar"></div>
       </div>
       <div class="progress-text" id="progress-text">0%</div>
+
+      <!-- Shown instead of silently dropping the splash when loading fails
+           or stalls, so users don't end up on a blank page. -->
+      <div class="load-error" id="load-error" role="alert" hidden>
+        <div>
+          Nốkk tải lâu hơn bình thường. Hãy kiểm tra kết nối mạng và thử lại.<br />
+          <span lang="en">Nốkk is taking longer than usual to load. Check your connection and try again.</span>
+        </div>
+        <button type="button" id="load-retry">Tải lại / Reload</button>
+      </div>
     </div>
 
     <!-- Flutter Bootstrap -->
-    <script src="flutter_bootstrap.js" async></script>
+    <script src="flutter_bootstrap.js" async onerror="window.__nokkBootstrapFailed = true; window.__nokkLoadFailed && window.__nokkLoadFailed()"></script>
 
     <!-- Enhanced loading screen control with progress tracking -->
     <script>
@@ -362,9 +474,33 @@
         progressText.textContent = Math.round(value) + "%";
       }
 
+      let firstFrameRendered = false;
+
+      // Show a visible error + reload button instead of a blank page.
+      function showLoadError() {
+        if (firstFrameRendered) return;
+        clearInterval(progressInterval);
+        const errorBox = document.getElementById("load-error");
+        if (errorBox) errorBox.hidden = false;
+        const progressContainer = document.querySelector(".progress-container");
+        if (progressContainer) progressContainer.style.display = "none";
+        if (progressText) progressText.style.display = "none";
+      }
+      window.__nokkLoadFailed = showLoadError;
+      if (window.__nokkBootstrapFailed) showLoadError();
+      document.getElementById("load-retry").addEventListener("click", function () {
+        window.location.reload();
+      });
+
       // Remove loading screen when Flutter is ready
       window.addEventListener("flutter-first-frame", function () {
+        firstFrameRendered = true;
         clearInterval(progressInterval);
+
+        // The canvas now owns the page; drop the static SEO copy so it isn't
+        // read twice by screen readers.
+        const seo = document.getElementById("seo-content");
+        if (seo) seo.remove();
 
         // Complete the progress bar
         updateProgress(100);
@@ -387,17 +523,26 @@
         }, 300);
       });
 
-      // Fallback: remove loading screen if Flutter is slow (e.g. large bundle on 3G)
+      // Fallback if Flutter is slow (e.g. large bundle on 3G). The progress
+      // bar above is simulated, so after 20s we stop pretending: if Flutter
+      // has mounted its view, reveal it; otherwise keep the splash and show
+      // a visible error with a reload button rather than a blank page.
       setTimeout(() => {
+        if (firstFrameRendered) return;
         const loading = document.getElementById("loading");
+        const flutterView = document.querySelector("flutter-view");
+        if (!flutterView) {
+          console.warn("Nốkk: Flutter did not start within 20s");
+          showLoadError();
+          return;
+        }
         if (loading && !loading.classList.contains("fade-out")) {
-          console.warn("Loading screen timeout - removing after 20 seconds");
+          console.warn("Loading screen timeout - revealing Flutter view after 20 seconds");
           clearInterval(progressInterval);
           updateProgress(100);
           loading.classList.add("fade-out");
           setTimeout(() => loading.remove(), 500);
-          const flutterView = document.querySelector("flutter-view");
-          if (flutterView) flutterView.classList.add("loaded");
+          flutterView.classList.add("loaded");
         }
       }, 20000);
     </script>

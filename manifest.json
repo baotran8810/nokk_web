@@ -1,11 +1,12 @@
 {
-    "name": "Nốkk - Drinking Card Game",
+    "name": "Nốkk – Trò chơi bài cho bữa tiệc",
     "short_name": "Nốkk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0F0F23",
     "theme_color": "#0F0F23",
-    "description": "The ultimate drinking card game for parties and gatherings. Truth or Dare, Never Have I Ever, and more!",
+    "description": "Trò chơi bài uống rượu cho các buổi tiệc: Thật hay Thách, Tôi chưa bao giờ và nhiều bộ bài vui nhộn khác cùng bạn bè.",
+    "lang": "vi",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
