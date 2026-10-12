@@ -285,7 +285,10 @@
       /* Static, crawlable description of the app (META-04). Visually hidden
          but still exposed to crawlers and screen readers until Flutter's
          first frame removes it. Not display:none. */
-      .visually-hidden {
+      /* Indexable mirror of the current screen, written by the `seo` package
+         (lib/shared/seo/nokk_seo.dart). Same visually-hidden treatment. */
+      .visually-hidden,
+      body > div[flt-seo] {
         position: absolute !important;
         width: 1px;
         height: 1px;
@@ -501,6 +504,12 @@
         // read twice by screen readers.
         const seo = document.getElementById("seo-content");
         if (seo) seo.remove();
+        // Routes with SeoPage write their own description; drop the static
+        // one so the page doesn't carry two.
+        const staticDescription = document.querySelector(
+          'meta[name="description"]:not([flt-seo])'
+        );
+        if (staticDescription) staticDescription.remove();
 
         // Complete the progress bar
         updateProgress(100);

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /game
+Disallow: /summary
+Disallow: /special-card
+Disallow: /join/
+Disallow: /multiplayer/waiting/
+Disallow: /login
+Disallow: /profile
+Disallow: /settings
+Disallow: /feedback
+
+Sitemap: https://nokk.app/sitemap.xml
