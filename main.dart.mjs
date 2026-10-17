@@ -84,7 +84,7 @@ class CompiledApp {
       AF: x0 => x0.touches,
       AG: (x0,x1) => x0.requestAnimationFrame(x1),
       AH: (x0,x1) => x0.writeText(x1),
-      AI: x0 => x0.offsetHeight,
+      AI: (x0,x1) => { x0.min = x1 },
       AJ: () => globalThis.window,
       AK: (x0,x1) => { x0.decoding = x1 },
       AL: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
@@ -100,7 +100,7 @@ class CompiledApp {
       BF: x0 => x0.pressure,
       BG: (wasmFunction,f) => finalizeWrapper(f, function(x0) { return wasmFunction(f,arguments.length,x0) }),
       BH: x0 => x0.unlock(),
-      BI: x0 => x0.offsetWidth,
+      BI: (x0,x1) => { x0.max = x1 },
       BJ: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
       BK: (x0,x1) => { x0.crossOrigin = x1 },
       BL: (x0,x1) => x0.getItem(x1),
@@ -116,7 +116,7 @@ class CompiledApp {
       CF: x0 => x0.tiltY,
       CG: x0 => x0.now(),
       CH: (x0,x1) => x0.lock(x1),
-      CI: x0 => x0.stopPropagation(),
+      CI: (x0,x1) => { x0.disabled = x1 },
       CJ: (x0,x1,x2) => x0.setRequestHeader(x1,x2),
       CK: (x0,x1) => x0.createObjectURL(x1),
       CL: x0 => x0.localStorage,
@@ -137,7 +137,7 @@ class CompiledApp {
       DF: x0 => x0.tiltX,
       DG: x0 => x0.performance,
       DH: x0 => x0.orientation,
-      DI: x0 => x0.disabled,
+      DI: (x0,x1) => { x0.scrollLeft = x1 },
       DJ: (x0,x1) => x0.send(x1),
       DK: x0 => x0.URL,
       DL: (x0,x1) => x0.key(x1),
@@ -161,7 +161,7 @@ class CompiledApp {
       EF: x0 => x0.pointerType,
       EG: (d, digits) => d.toFixed(digits),
       EH: (x0,x1) => x0.querySelector(x1),
-      EI: (x0,x1) => { x0.min = x1 },
+      EI: (x0,x1) => { x0.spellcheck = x1 },
       EJ: x0 => x0.abort(),
       EK: x0 => new Blob(x0),
       EL: x0 => x0.length,
@@ -177,7 +177,7 @@ class CompiledApp {
       FF: x0 => x0.pointerId,
       FG: x0 => x0.maxHeight,
       FH: (x0,x1) => { x0.title = x1 },
-      FI: (x0,x1) => { x0.max = x1 },
+      FI: (x0,x1) => { x0.disabled = x1 },
       FJ: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
       FK: (x0,x1,x2,x3,x4) => ({type: x0,data: x1,premultiplyAlpha: x2,colorSpaceConversion: x3,preferAnimation: x4}),
       FL: (x0,x1) => x0.removeItem(x1),
@@ -198,7 +198,7 @@ class CompiledApp {
       GF: x0 => x0.getCoalescedEvents(),
       GG: x0 => x0.maxWidth,
       GH: (x0,x1) => x0.vibrate(x1),
-      GI: (x0,x1) => { x0.disabled = x1 },
+      GI: (x0,x1) => x0.querySelectorAll(x1),
       GJ: (x0,x1) => { x0.withCredentials = x1 },
       GK: x0 => new window.ImageDecoder(x0),
       GL: (x0,x1,x2) => x0.setItem(x1,x2),
@@ -214,7 +214,7 @@ class CompiledApp {
       HF: (x0,x1) => x0.getModifierState(x1),
       HG: x0 => x0.minHeight,
       HH: x0 => x0.arrayBuffer(),
-      HI: (x0,x1) => { x0.scrollLeft = x1 },
+      HI: (x0,x1,x2) => x0.insertAdjacentHTML(x1,x2),
       HJ: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
       HK: x0 => x0.name,
       HL: (x0,x1) => x0.canShare(x1),
@@ -243,7 +243,7 @@ class CompiledApp {
         }
         return 3;
       },
-      II: (x0,x1) => { x0.spellcheck = x1 },
+      II: (x0,x1) => x0.removeChild(x1),
       IJ: (wasmFunction,f) => finalizeWrapper(f, function(x0) { return wasmFunction(f,arguments.length,x0) }),
       IK: x0 => x0.repetitionCount,
       IL: (x0,x1) => x0.share(x1),
@@ -259,7 +259,7 @@ class CompiledApp {
       JF: (x0,x1) => x0[x1],
       JG: (x0,x1) => x0.removeProperty(x1),
       JH: x0 => x0.status,
-      JI: (x0,x1) => { x0.disabled = x1 },
+      JI: (x0,x1) => x0.item(x1),
       JJ: (wasmFunction,f) => finalizeWrapper(f, function(x0) { return wasmFunction(f,arguments.length,x0) }),
       JK: x0 => x0.frameCount,
       JL: x0 => x0.message,
@@ -281,7 +281,7 @@ class CompiledApp {
       KF: x0 => x0.index,
       KG: (x0,x1) => x0.add(x1),
       KH: (x0,x1) => x0.fetch(x1),
-      KI: (x0,x1) => x0.querySelectorAll(x1),
+      KI: x0 => x0.length,
       KJ: (x0,x1) => x0.getResponseHeader(x1),
       KK: x0 => x0.selectedTrack,
       KL: x0 => ({url: x0}),
@@ -298,7 +298,7 @@ class CompiledApp {
       LF: s => s.toUpperCase(),
       LG: x0 => x0.data,
       LH: x0 => x0.content,
-      LI: (x0,x1,x2) => x0.insertAdjacentHTML(x1,x2),
+      LI: x0 => x0.body,
       LJ: x0 => x0.responseText,
       LK: x0 => x0.completed,
       LL: (x0,x1) => ({files: x0,text: x1}),
@@ -314,7 +314,7 @@ class CompiledApp {
       MF: x0 => x0.pop(),
       MG: (x0,x1) => { x0.scrollTop = x1 },
       MH: x0 => x0.document,
-      MI: (x0,x1) => x0.removeChild(x1),
+      MI: () => globalThis.document,
       MJ: x0 => x0.status,
       MK: x0 => x0.ready,
       ML: x0 => ({files: x0}),
@@ -331,7 +331,7 @@ class CompiledApp {
       NF: x0 => x0.flags,
       NG: (x0,x1,x2) => x0.setSelectionRange(x1,x2),
       NH: () => typeof dartUseDateNowForTicks !== "undefined",
-      NI: (x0,x1) => x0.item(x1),
+      NI: x0 => x0.head,
       NJ: x0 => x0.readyState,
       NK: x0 => x0.tracks,
       NL: x0 => ({text: x0}),
@@ -351,7 +351,7 @@ class CompiledApp {
       OF: (a, s) => a.join(s),
       OG: (x0,x1) => { x0.value = x1 },
       OH: () => Date.now(),
-      OI: x0 => x0.length,
+      OI: (map, o, v) => map.set(o, v),
       OJ: (x0,x1) => { x0.timeout = x1 },
       OK: x0 => x0.close(),
       OL: x0 => x0.baseURI,
@@ -367,7 +367,7 @@ class CompiledApp {
       PF: (x0,x1) => x0.error(x1),
       PG: (x0,x1,x2) => x0.setSelectionRange(x1,x2),
       PH: () => 1000 * performance.now(),
-      PI: x0 => x0.body,
+      PI: (map, o) => map.get(o),
       PJ: x0 => new WebSocket(x0),
       PK: (x0,x1) => ({frameIndex: x0,completeFramesOnly: x1}),
       PL: x0 => x0.document,
@@ -383,7 +383,7 @@ class CompiledApp {
       QF: () => globalThis.console,
       QG: (x0,x1) => { x0.value = x1 },
       QH: x0 => x0.debugSkipFontRetryDelay,
-      QI: () => globalThis.document,
+      QI: () => new WeakMap(),
       QJ: (x0,x1) => new WebSocket(x0,x1),
       QK: (x0,x1) => x0.decode(x1),
       QL: (x0,x1) => x0.querySelector(x1),
@@ -404,7 +404,11 @@ class CompiledApp {
         return s;
       },
       RH: x0 => new Uint8Array(x0),
-      RI: x0 => x0.head,
+      RI: () => {
+        return typeof process != "undefined" &&
+               Object.prototype.toString.call(process) == "[object process]" &&
+               process.platform == "win32"
+      },
       RJ: x0 => x0.data,
       RK: x0 => x0.displayHeight,
       RL: (x0,x1) => x0.getAttribute(x1),
@@ -447,7 +451,13 @@ class CompiledApp {
       SF: x0 => x0.blur(),
       SG: x0 => x0.value,
       SH: (x0,x1,x2) => x0.set(x1,x2),
-      SI: (map, o, v) => map.set(o, v),
+      SI: () => {
+        // On browsers return `globalThis.location.href`
+        if (globalThis.location != null) {
+          return globalThis.location.href;
+        }
+        return null;
+      },
       SJ: (x0,x1) => { x0.binaryType = x1 },
       SK: x0 => x0.displayWidth,
       SL: (x0,x1) => x0.debug(x1),
@@ -463,7 +473,7 @@ class CompiledApp {
       TF: x0 => x0.button,
       TG: x0 => x0.selectionDirection,
       TH: x0 => x0.buffer,
-      TI: (map, o) => map.get(o),
+      TI: (o, p) => p in o,
       TJ: x0 => x0.binaryType,
       TK: x0 => x0.duration,
       TL: (wasmFunction,f) => finalizeWrapper(f, function(x0) { return wasmFunction(f,arguments.length,x0) }),
@@ -479,7 +489,7 @@ class CompiledApp {
       UF: x0 => x0.innerHeight,
       UG: x0 => x0.selectionStart,
       UH: x0 => x0.wasmMemory,
-      UI: () => new WeakMap(),
+      UI: x0 => x0.groups,
       UJ: x0 => x0.close(),
       UK: x0 => x0.image,
       UL: x0 => ({createScriptURL: x0}),
@@ -953,11 +963,7 @@ class CompiledApp {
           setValue(wasmArray, wasmArrayOffset + i, jsArray[jsArrayOffset + i]);
         }
       },
-      uH: () => {
-        return typeof process != "undefined" &&
-               Object.prototype.toString.call(process) == "[object process]" &&
-               process.platform == "win32"
-      },
+      uH: (x0,x1,x2) => x0.insertBefore(x1,x2),
       uI: () => new XMLHttpRequest(),
       uJ: (x0,x1) => x0.revokeObjectURL(x1),
       uK: x0 => x0.isComposing,
@@ -972,13 +978,7 @@ class CompiledApp {
       vE: x0 => x0.deltaX,
       vF: x0 => x0.location,
       vG: (x0,x1) => x0.dispatchEvent(x1),
-      vH: () => {
-        // On browsers return `globalThis.location.href`
-        if (globalThis.location != null) {
-          return globalThis.location.href;
-        }
-        return null;
-      },
+      vH: x0 => x0.id,
       vI: (x0,x1) => { x0.responseType = x1 },
       vJ: (x0,x1) => { x0.src = x1 },
       vK: x0 => x0.code,
@@ -993,7 +993,7 @@ class CompiledApp {
       wE: x0 => x0.wheelDeltaY,
       wF: x0 => x0.search,
       wG: (x0,x1) => x0.createEvent(x1),
-      wH: (o, p) => p in o,
+      wH: x0 => x0.offsetHeight,
       wI: x0 => x0.hostname,
       wJ: (x0,x1,x2,x3,x4) => globalThis.createImageBitmap(x0,x1,x2,x3,x4),
       wK: x0 => x0.repeat,
@@ -1013,7 +1013,7 @@ class CompiledApp {
       xE: x0 => x0.wheelDeltaX,
       xF: x0 => x0.pathname,
       xG: (x0,x1,x2,x3) => x0.initEvent(x1,x2,x3),
-      xH: x0 => x0.groups,
+      xH: x0 => x0.offsetWidth,
       xI: x0 => x0.port,
       xJ: x0 => x0.naturalHeight,
       xK: (wasmFunction,f) => finalizeWrapper(f, function(x0) { return wasmFunction(f,arguments.length,x0) }),
@@ -1028,7 +1028,7 @@ class CompiledApp {
       yE: x0 => x0.key,
       yF: x0 => x0.parentElement,
       yG: x0 => x0.readText(),
-      yH: (x0,x1,x2) => x0.insertBefore(x1,x2),
+      yH: x0 => x0.stopPropagation(),
       yI: x0 => x0.protocol,
       yJ: x0 => x0.naturalWidth,
       yK: x0 => x0.userAgent,
@@ -1043,7 +1043,7 @@ class CompiledApp {
       zE: x0 => x0.identifier,
       zF: (x0,x1) => x0.querySelectorAll(x1),
       zG: x0 => x0.clipboard,
-      zH: x0 => x0.id,
+      zH: x0 => x0.disabled,
       zI: x0 => x0.location,
       zJ: x0 => x0.decode(),
       zK: x0 => x0.navigator,
